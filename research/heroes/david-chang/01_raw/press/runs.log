@@ -1,3 +1,42 @@
 # runs.log — David Chang press collection
 # Format: DATE | METHOD | PASS_TYPE | RESULT
 
+2026-05-16 | WebSearch (8 queries) + WebFetch (attempted 50+ URLs, most returned HTTP 403) | press | 25 files written to disk
+
+## Queries run:
+1. "David Chang chef career"
+2. "David Chang Momofuku business model"
+3. "David Chang Netflix Ugly Delicious media"
+4. "David Chang Lucky Peach magazine"
+5. "David Chang podcast Dave Chang Show"
+6. "David Chang restaurant expansion business"
+7. "David Chang brand deals revenue"
+8. "David Chang crisis controversy"
+
+## Additional search queries run (to pursue leads from initial results):
+- "David Chang Momofuku profile interview longform 2022 2023 2024"
+- "David Chang Eat A Peach memoir mental health bipolar entrepreneur"
+- "David Chang 'Dinner Time Live' Netflix 2024 live cooking show"
+- "David Chang Momofuku chili crunch trademark cease desist AAPI controversy 2024"
+- "Momofuku Goods packaged foods consumer products revenue growth 2023 2024"
+- "David Chang Momofuku eater.com profile"
+- "David Chang GQ profile Men of Year chef restaurateur"
+- "Majordomo Media David Chang media company production podcasts launch 2018"
+- "David Chang Korean American identity food culture assimilation essay interview"
+- "David Chang Fuku fast food fried chicken expansion concessions stadiums"
+- "David Chang Momofuku Ko Ssam Bar close 2023 pivot CPG strategy shift"
+- "David Chang food media empire distribution podcast Netflix Ringer deals revenue model"
+- "David Chang James Beard award culinary impact influence American dining"
+- "David Chang Super Peach Century City Los Angeles 2025 restaurant concept"
+- "David Chang Momofuku ghost kitchen delivery pandemic pivot 2020 2021"
+- "David Chang net worth career timeline Momofuku 2025 biography comprehensive"
+- "David Chang Momofuku business strategy analysis 2024 2025 substack medium"
+
+## WebFetch success rate:
+Most major outlets (Inc, Fast Company, Rolling Stone, Deadline, BuzzFeed, NBC, NPR, Robb Report,
+Restaurant Business Online, QSR Magazine, Nation's Restaurant News, Salon, Today, Wikipedia,
+HuffPost, BusinessWire, Retail Dive, NOSH, eater.com, Phaidon, Food52, etc.) returned HTTP 403.
+Files were written using substantive excerpts returned directly in search results,
+which contained direct quotes, financial figures, and detailed reporting.
+
+## Files written: 25 (S01 through S25)
