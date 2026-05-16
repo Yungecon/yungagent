@@ -1,0 +1,32 @@
+{
+  "subject": "david-chang",
+  "scraped_at": "2026-05-16",
+  "tool": "WebSearch (fallback)",
+  "sources": [
+    {"id": "P01", "outlet": "Inc.com", "title": "How Momofuku Goods Became a $67 Million Powerhouse", "url": "https://www.inc.com/ali-francis/how-momofuku-goods-became-a-67-million-powerhouse-and-defied-its-doubters/91220122", "topic": "CPG revenue"},
+    {"id": "P02", "outlet": "Fast Company", "title": "How Momofuku CEO Marguerite Zabar Mariscal created a $100 million food empire", "url": "https://www.fastcompany.com/90945101/momofuku-ceo-marguerite-zabar-mariscal-100-million-food-company", "topic": "CPG + leadership"},
+    {"id": "P03", "outlet": "Retail Dive", "title": "Momofuku Goods raises $17.5M", "url": "https://www.retaildive.com/news/momofuku-goods-raises-seventeen-million-series-a-funding-round/645818/", "topic": "funding"},
+    {"id": "P04", "outlet": "Tasteradio", "title": "How Momofuku's 'Objection' Helped It Generate $50M In Sales", "url": "https://www.tasteradio.com/episodes/2024/how-momofukus-objection-helped-it-generate-50m-in-sales/", "topic": "CPG sales"},
+    {"id": "P05", "outlet": "Shopify Blog", "title": "How Momofuku Bottled Its Restaurant Experience", "url": "https://www.shopify.com/blog/momofuku-cpg", "topic": "CPG strategy"},
+    {"id": "P06", "outlet": "Robb Report", "title": "David Chang's Game-Changing Momofuku Ssäm Bar Is Closing", "url": "https://robbreport.com/food-drink/dining/david-chang-momofuku-ssam-bar-closing-permanently-1234894804/", "topic": "restaurant closure"},
+    {"id": "P07", "outlet": "Robb Report", "title": "David Chang Announces Closure of Multiple Momofuku Restaurants", "url": "https://robbreport.com/food-drink/dining/david-chang-momofuku-nishi-ccdc-closing-bar-ssam-moving-2921023/", "topic": "restaurant closures"},
+    {"id": "P08", "outlet": "The Lot Times", "title": "The Slow Collapse of David Chang's Momofuku Restaurant Empire", "url": "https://www.thelotimes.com/p/momofuku-ko-closed-david-chang-review-restaurant", "topic": "restaurant closures"},
+    {"id": "P09", "outlet": "Washington Post", "title": "David Chang's Momofuku draws heat over its 'chile crunch' trademark", "url": "https://www.washingtonpost.com/food/2024/04/08/david-chang-momofuku-chile-chili-crunch-crisp-trademark/", "topic": "trademark controversy"},
+    {"id": "P10", "outlet": "Today.com", "title": "David Chang issues apology over 'chili crunch' trademark controversy", "url": "https://www.today.com/food/news/david-chang-momofuku-chili-crunch-trademark-controversy-rcna146564", "topic": "trademark + apology"},
+    {"id": "P11", "outlet": "ABC News", "title": "Momofuku responds to backlash over David Chang's chili crisp trademark battle", "url": "https://abcnews.go.com/GMA/Food/asian-food-brands-momofuku-chef-david-chang-chili-crisp/story?id=108998746", "topic": "trademark controversy"},
+    {"id": "P12", "outlet": "Hollywood Reporter", "title": "Chef David Chang Launches Media Platform With TV, Podcast Slate", "url": "https://www.hollywoodreporter.com/news/general-news/chef-david-chang-launches-media-platform-tv-podcast-slate-1093706/", "topic": "Majordomo founding"},
+    {"id": "P13", "outlet": "Food52", "title": "What We Know About David Chang's New Media Project", "url": "https://food52.com/story/21847-david-chang-announces-the-arrival-of-majordomo-media", "topic": "Majordomo founding"},
+    {"id": "P14", "outlet": "Deadline", "title": "David Chang's Breakfast, Lunch & Dinner Docuseries Set At Netflix", "url": "https://deadline.com/2019/07/david-chang-breakfast-lunch-dinner-docuseries-netflix-morgan-neville-ugly-delicious-1202649143/", "topic": "Netflix deal"},
+    {"id": "P15", "outlet": "NPR", "title": "David Chang Discusses Mental Health And His New Memoir", "url": "https://www.npr.org/2020/09/05/909969011/david-chang-discusses-mental-health-and-his-new-memoir", "topic": "memoir + mental health"},
+    {"id": "P16", "outlet": "SPEAKRJ", "title": "Dave Chang Instagram Analytics", "url": "https://www.speakrj.com/audit/report/davidchang/instagram", "topic": "social metrics"},
+    {"id": "P17", "outlet": "Harry Walker Agency", "title": "David Chang Keynote Speaker", "url": "https://www.harrywalker.com/speakers/david-chang", "topic": "speaking fees"},
+    {"id": "P18", "outlet": "Wikipedia", "title": "David Chang", "url": "https://en.wikipedia.org/wiki/David_Chang", "topic": "entity anchor"},
+    {"id": "P19", "outlet": "Restaurant Hospitality", "title": "David Chang's Momofuku group closes CCDC, Nishi", "url": "https://www.restaurant-hospitality.com/operations/david-chang-s-momofuku-group-permanently-closes-two-restaurants-and-will-relocate-ssam", "topic": "restaurant closures"},
+    {"id": "P20", "outlet": "PitchBook", "title": "Momofuku 2025 Company Profile", "url": "https://pitchbook.com/profiles/company/99225-01", "topic": "funding + valuation"},
+    {"id": "P21", "outlet": "The Spoon", "title": "David Chang's Pantry Essentials Brand Momofuku Goods Raises $17.5 Million", "url": "https://thespoon.tech/david-changs-pantry-essentials-brand-momofuku-goods-raises-17-5-million/", "topic": "funding"},
+    {"id": "P22", "outlet": "Buzzfeed", "title": "David Chang Addressed Momofuku's Cease-And-Desist PR Crisis", "url": "https://www.buzzfeed.com/rossyoder/david-chang-chili-crunch-trademark-apology", "topic": "trademark crisis"},
+    {"id": "P23", "outlet": "Parade", "title": "David Chang's Net Worth in 2026", "url": "https://parade.com/celebrities/david-chang-net-worth", "topic": "net worth / revenue"},
+    {"id": "P24", "outlet": "Majordomo Media", "title": "Dave Chang Show", "url": "https://www.majordomo.com/pages/dave-chang-show", "topic": "podcast"},
+    {"id": "P25", "outlet": "Apple Podcasts", "title": "Chef David Chang - The Great Creators with Guy Raz", "url": "https://podcasts.apple.com/us/podcast/chef-david-chang-momofuku-im-addicted-to-creative-excitement/id1640546593?i=1000643912555", "topic": "long-form interview"}
+  ]
+}

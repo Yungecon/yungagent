@@ -1,0 +1,2820 @@
+{
+  "subject": "david-chang",
+  "channel": "The Dave Chang Show",
+  "channel_id": "UCETysjkqFvS4PHm5Hv_Yu9w",
+  "scraped_at": "2026-05-16",
+  "tool": "yt-dlp 2026.03.17 --flat-playlist",
+  "total_videos": 351,
+  "note": "Flat playlist mode returns title/id/duration only \u2014 no view counts. View counts require per-video fetch.",
+  "videos_by_duration_desc": [
+    {
+      "id": "eBhFRoT9Pgs",
+      "title": "Wine-ing Down with Justin Pichetrungsi & Ian Krupp | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=eBhFRoT9Pgs",
+      "duration_sec": 7648.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "kEzqFebwKZc",
+      "title": "Dave & Chris Finally Talk About 'The Bear': Season 3 | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=kEzqFebwKZc",
+      "duration_sec": 7416.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "xDExaf35qDM",
+      "title": "Food Criticism with Besha Rodell | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=xDExaf35qDM",
+      "duration_sec": 6926.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "zCMdkl18XtU",
+      "title": "Chicago: Hospitality, Hot Dogs, and Pizza with Donnie Madia | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=zCMdkl18XtU",
+      "duration_sec": 6563.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "mWAMASYpiwU",
+      "title": "Japan: Feeling Seen with HIKARI | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=mWAMASYpiwU",
+      "duration_sec": 6489.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "C0QSNhSQfkY",
+      "title": "Growing Up with Roy Choi | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=C0QSNhSQfkY",
+      "duration_sec": 6208.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "gyFHTAZcDXg",
+      "title": "Dave & Chris Finally Talk About 'The Bear': Season 1 | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=gyFHTAZcDXg",
+      "duration_sec": 6150.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "CkIZ1gP_YCA",
+      "title": "Cooking as Art with Michael Cimarusti | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=CkIZ1gP_YCA",
+      "duration_sec": 6109.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "kyFTrdT1SmI",
+      "title": "Behind the Scenes of Dinner Time Live  | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=kyFTrdT1SmI",
+      "duration_sec": 6038.0,
+      "playlist": "The Dave Chang Show - Live"
+    },
+    {
+      "id": "-CvoT36bjXQ",
+      "title": "Cooking, Music, and Creativity with Samin Nosrat and Hrishikesh Hirway | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=-CvoT36bjXQ",
+      "duration_sec": 5950.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "lCN7DoiqFUA",
+      "title": "Fixing Our Foodways with Sam Kass | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=lCN7DoiqFUA",
+      "duration_sec": 5889.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "1-8EEni4ZCc",
+      "title": "Ramen in Real Time | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=1-8EEni4ZCc",
+      "duration_sec": 5870.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "4UgY6PkVGoU",
+      "title": "Cooking for a Cause with Dan Giusti | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=4UgY6PkVGoU",
+      "duration_sec": 5843.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "yCdFb23xOTw",
+      "title": "How We Consume Now with Alex Stupak | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=yCdFb23xOTw",
+      "duration_sec": 5786.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "2-1b04n8Vcw",
+      "title": "Dave & Chris Finally Talk About 'The Bear': Season 2 | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=2-1b04n8Vcw",
+      "duration_sec": 5701.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "rE8wnqtYRzU",
+      "title": "France, Wine, and French Wine with Jordan Salcito | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=rE8wnqtYRzU",
+      "duration_sec": 5646.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "hLBUDd6U3Rs",
+      "title": "Being Competitive with Aisha Ibrahim | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=hLBUDd6U3Rs",
+      "duration_sec": 5569.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "Fa1IOR2BuXE",
+      "title": "DCS LIVESTREAM | Primary Source: Fish with The Joint's Liwei Liao",
+      "url": "https://www.youtube.com/watch?v=Fa1IOR2BuXE",
+      "duration_sec": 5317.0,
+      "playlist": "The Dave Chang Show - Live"
+    },
+    {
+      "id": "5jjYIsTMhto",
+      "title": "From Chef to Restaurateur with Michael Mina | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=5jjYIsTMhto",
+      "duration_sec": 5302.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "H3f_AZF4an0",
+      "title": "Taco Culture with Javier Cabral | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=H3f_AZF4an0",
+      "duration_sec": 5130.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "ssT9PmewgnM",
+      "title": "Primary Source: Fish with The Joint's Liwei Liao | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=ssT9PmewgnM",
+      "duration_sec": 5112.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "H_Fc5ZAcHxc",
+      "title": "Coffee and Contentment with Jack Benchakul | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=H_Fc5ZAcHxc",
+      "duration_sec": 4922.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "HQMYGjs_u3g",
+      "title": "Partying with Courtney McBroom | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=HQMYGjs_u3g",
+      "duration_sec": 4897.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "lMsRnrrYL_M",
+      "title": "Claiming Identity with Edward Lee | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=lMsRnrrYL_M",
+      "duration_sec": 4824.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "nANNqqPKcZ8",
+      "title": "Chasing Perfection with Ben Shewry | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=nANNqqPKcZ8",
+      "duration_sec": 4824.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "Wi5KlOhawpg",
+      "title": "Committing to Flavor with Chef Joshua Skenes | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=Wi5KlOhawpg",
+      "duration_sec": 4647.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "J6gvc7ICJto",
+      "title": "Feeling Good with Paul Carmichael | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=J6gvc7ICJto",
+      "duration_sec": 4612.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "OFdy5ruxs3w",
+      "title": "Modern Food Media with Ruby Tandoh | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=OFdy5ruxs3w",
+      "duration_sec": 4564.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "nxLBr97cmaA",
+      "title": "The GOAT of Eating | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=nxLBr97cmaA",
+      "duration_sec": 4550.0,
+      "playlist": "The Dave Chang Show - Live"
+    },
+    {
+      "id": "0f8lAxfmf6w",
+      "title": "Steak with Eric Wareheim and Gabe Ulla | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=0f8lAxfmf6w",
+      "duration_sec": 4526.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "ekz3XJ2LVLs",
+      "title": "Point of View with Brooks Headley | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=ekz3XJ2LVLs",
+      "duration_sec": 4489.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "hGwJTlRC_Ic",
+      "title": "Defining Excellence in Food with Chef Roy Shvartzapel | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=hGwJTlRC_Ic",
+      "duration_sec": 4474.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "YyFveotyzTA",
+      "title": "Hospitality First with Will Guidara | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=YyFveotyzTA",
+      "duration_sec": 4466.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "AwXXVXVSUFM",
+      "title": "Friendship and Cereal with Kelly Meinhardt and Charlotte Duerden | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=AwXXVXVSUFM",
+      "duration_sec": 4422.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "BX2CV5gFz4Y",
+      "title": "At the Plate(s) with Gerrit Cole | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=BX2CV5gFz4Y",
+      "duration_sec": 4341.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "yG89dTt0FBM",
+      "title": "Southern Dining and an Atlas: Nashville edition with Kahlil Arnold | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=yG89dTt0FBM",
+      "duration_sec": 4299.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "-EptOFMl1Tg",
+      "title": "\"Overnight Success\" with Chef Alison Roman | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=-EptOFMl1Tg",
+      "duration_sec": 4285.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "mJPz5LYlhDU",
+      "title": "Post-Surgery Platitudes and Dave's Kitchen Essentials | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=mJPz5LYlhDU",
+      "duration_sec": 4175.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "HAbfNUYUfXI",
+      "title": "Mexico City with Enrique Olvera | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=HAbfNUYUfXI",
+      "duration_sec": 4172.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "J_C1BEJUfD4",
+      "title": "Souffl\u00e9s and Time Travel | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=J_C1BEJUfD4",
+      "duration_sec": 4152.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "YyGab5S5ALw",
+      "title": "Innovation with Dominique Ansel | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=YyGab5S5ALw",
+      "duration_sec": 4135.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "5LSpQHimPoE",
+      "title": "Noodlefest | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=5LSpQHimPoE",
+      "duration_sec": 4127.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "doKbYHeiaKc",
+      "title": "Braving the Unknown Path with Chef Nancy Silverton | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=doKbYHeiaKc",
+      "duration_sec": 4098.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "vcdVY7FXyeI",
+      "title": "Tea 101 with Steep LA's Sam Wang and Lydia Lin | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=vcdVY7FXyeI",
+      "duration_sec": 4073.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "AhkVPVTJwnA",
+      "title": "Changing Tides and Lasting Impacts with Jeremy Fox | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=AhkVPVTJwnA",
+      "duration_sec": 4032.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "rbwYL4jh0Ik",
+      "title": "Kabawa Pre-Opening Diaries with Paul Carmichael | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=rbwYL4jh0Ik",
+      "duration_sec": 4011.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "QsKKidj7f7E",
+      "title": "Thinking for Yourself, Tasting for Yourself with Christina Tosi | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=QsKKidj7f7E",
+      "duration_sec": 4010.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "XvHQLZouv0U",
+      "title": "Pre-re-opening Diaries: Babbo | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=XvHQLZouv0U",
+      "duration_sec": 3790.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "pdYWv_ZzqGc",
+      "title": "How Do You Like These Apples? | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=pdYWv_ZzqGc",
+      "duration_sec": 3776.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "8wb8XiaiiDc",
+      "title": "The Fundamentals of Oysters with Found Oyster's Ari Kolender | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=8wb8XiaiiDc",
+      "duration_sec": 3761.0,
+      "playlist": "The Dave Chang Show - Videos"
+    }
+  ],
+  "all_videos": [
+    {
+      "id": "Ke5-XRioN98",
+      "title": "Confessions of @minakimes and Dave over a milkshake!",
+      "url": "https://www.youtube.com/watch?v=Ke5-XRioN98",
+      "duration_sec": 146.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "ED28y0Xguwk",
+      "title": "Korean school/Yonsei program with @Eric Nam \uc5d0\ub9ad\ub0a8",
+      "url": "https://www.youtube.com/watch?v=ED28y0Xguwk",
+      "duration_sec": 160.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "2OZcsD0UEHE",
+      "title": "Up your vinaigrette game!",
+      "url": "https://www.youtube.com/watch?v=2OZcsD0UEHE",
+      "duration_sec": 120.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "yiqITJSC41w",
+      "title": "Using lemon in food with Chef Chris Bianco",
+      "url": "https://www.youtube.com/watch?v=yiqITJSC41w",
+      "duration_sec": 97.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "sI9-hc37Z-E",
+      "title": "24 LBS OF CHOCOLATE AND 636 EGGS?",
+      "url": "https://www.youtube.com/watch?v=sI9-hc37Z-E",
+      "duration_sec": 90.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "CYx5esbK0JM",
+      "title": "The Scientific Process with @From First Principles Podcast",
+      "url": "https://www.youtube.com/watch?v=CYx5esbK0JM",
+      "duration_sec": 179.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "2Goz7Vj390E",
+      "title": "Betting against the USA?",
+      "url": "https://www.youtube.com/watch?v=2Goz7Vj390E",
+      "duration_sec": 132.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "MJDwjtmpgps",
+      "title": "What Makes a Dish Meaningful",
+      "url": "https://www.youtube.com/watch?v=MJDwjtmpgps",
+      "duration_sec": 121.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "KAD-4X9lVrg",
+      "title": "Gumbo to Jambalaya to Jjigae with Rice in it? Delicious!",
+      "url": "https://www.youtube.com/watch?v=KAD-4X9lVrg",
+      "duration_sec": 192.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "bldDB3H5_zA",
+      "title": "Dave's Go-To Sesame Sauce/Goma Dare at Home!",
+      "url": "https://www.youtube.com/watch?v=bldDB3H5_zA",
+      "duration_sec": 160.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "_Blyt_5N2_w",
+      "title": "Craft Services on Movie Sets = Family Meal!",
+      "url": "https://www.youtube.com/watch?v=_Blyt_5N2_w",
+      "duration_sec": 104.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "9COPgmPXAcI",
+      "title": "Know Your Kitchen Equipment!",
+      "url": "https://www.youtube.com/watch?v=9COPgmPXAcI",
+      "duration_sec": 138.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "I5BBBl9bh08",
+      "title": "Dave liked WHOSE POST on TIKTOK?",
+      "url": "https://www.youtube.com/watch?v=I5BBBl9bh08",
+      "duration_sec": 153.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "zr5Ar8TdFAQ",
+      "title": "Last Meal Dinner Guests",
+      "url": "https://www.youtube.com/watch?v=zr5Ar8TdFAQ",
+      "duration_sec": 177.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "RttAvKOihCM",
+      "title": "Grandmother's Unusual Potato Recipe",
+      "url": "https://www.youtube.com/watch?v=RttAvKOihCM",
+      "duration_sec": 239.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "JGS1KTEpoaA",
+      "title": "The Secret... with Bill Simmons",
+      "url": "https://www.youtube.com/watch?v=JGS1KTEpoaA",
+      "duration_sec": 181.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "vmmAYVLECQw",
+      "title": "DELI BATTLE: New York's Katz's or Los Angeles' Langer's?",
+      "url": "https://www.youtube.com/watch?v=vmmAYVLECQw",
+      "duration_sec": 125.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "5Lq70Qt46oM",
+      "title": "Paris and Global Food Trends with Noelle Cornelio | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=5Lq70Qt46oM",
+      "duration_sec": 3472.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "lxwn_xJY-BQ",
+      "title": "Sugar Snap Peas and Simplicity | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=lxwn_xJY-BQ",
+      "duration_sec": 1697.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "q_dT6qwG4Ck",
+      "title": "Beloved Dogs and Living in the Present | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=q_dT6qwG4Ck",
+      "duration_sec": 1714.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "9LwbvUlzbbw",
+      "title": "Snacking and Serving Sizes with Chris Ying | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=9LwbvUlzbbw",
+      "duration_sec": 3294.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "J_C1BEJUfD4",
+      "title": "Souffl\u00e9s and Time Travel | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=J_C1BEJUfD4",
+      "duration_sec": 4152.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "m4pnDp-WZgc",
+      "title": "An Ask Dave Mailbag LIVE from Las Vegas | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=m4pnDp-WZgc",
+      "duration_sec": 2487.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "2Gde-ElEey0",
+      "title": "Future of Food Content With Owen Han and H Woo Lee \u2014 LIVE From Momofuku at Cosmopolitan of Las Vegas",
+      "url": "https://www.youtube.com/watch?v=2Gde-ElEey0",
+      "duration_sec": 1890.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "mWAMASYpiwU",
+      "title": "Japan: Feeling Seen with HIKARI | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=mWAMASYpiwU",
+      "duration_sec": 6489.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "HQMYGjs_u3g",
+      "title": "Partying with Courtney McBroom | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=HQMYGjs_u3g",
+      "duration_sec": 4897.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "pdYWv_ZzqGc",
+      "title": "How Do You Like These Apples? | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=pdYWv_ZzqGc",
+      "duration_sec": 3776.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "rE8wnqtYRzU",
+      "title": "France, Wine, and French Wine with Jordan Salcito | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=rE8wnqtYRzU",
+      "duration_sec": 5646.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "lCN7DoiqFUA",
+      "title": "Fixing Our Foodways with Sam Kass | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=lCN7DoiqFUA",
+      "duration_sec": 5889.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "5jjYIsTMhto",
+      "title": "From Chef to Restaurateur with Michael Mina | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=5jjYIsTMhto",
+      "duration_sec": 5302.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "OFdy5ruxs3w",
+      "title": "Modern Food Media with Ruby Tandoh | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=OFdy5ruxs3w",
+      "duration_sec": 4564.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "0f8lAxfmf6w",
+      "title": "Steak with Eric Wareheim and Gabe Ulla | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=0f8lAxfmf6w",
+      "duration_sec": 4526.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "MbWqHvUOaQM",
+      "title": "Taking Big Swings with Stephen Starr | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=MbWqHvUOaQM",
+      "duration_sec": 3305.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "yCdFb23xOTw",
+      "title": "How We Consume Now with Alex Stupak | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=yCdFb23xOTw",
+      "duration_sec": 5786.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "-EptOFMl1Tg",
+      "title": "\"Overnight Success\" with Chef Alison Roman | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=-EptOFMl1Tg",
+      "duration_sec": 4285.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "8qihWa2Fyo4",
+      "title": "'EEEEEATSCON' Awards with Justin Pichetrungsi and Eddie Huang | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=8qihWa2Fyo4",
+      "duration_sec": 2480.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "ekz3XJ2LVLs",
+      "title": "Point of View with Brooks Headley | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=ekz3XJ2LVLs",
+      "duration_sec": 4489.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "XvHQLZouv0U",
+      "title": "Pre-re-opening Diaries: Babbo | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=XvHQLZouv0U",
+      "duration_sec": 3790.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "t2X02Ra8Ssw",
+      "title": "The Burger Boom | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=t2X02Ra8Ssw",
+      "duration_sec": 2591.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "6BAuRyvy9yw",
+      "title": "Developing a Recipe for Success with Sarah Fennel | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=6BAuRyvy9yw",
+      "duration_sec": 2771.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "AhkVPVTJwnA",
+      "title": "Changing Tides and Lasting Impacts with Jeremy Fox | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=AhkVPVTJwnA",
+      "duration_sec": 4032.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "kkYf2_03-g4",
+      "title": "The Sauceshank Redemption | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=kkYf2_03-g4",
+      "duration_sec": 2144.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "rFU54Xh59JA",
+      "title": "A Dinner Time Live Faux Pas, A Tribute to Nobu | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=rFU54Xh59JA",
+      "duration_sec": 2996.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "H_Fc5ZAcHxc",
+      "title": "Coffee and Contentment with Jack Benchakul | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=H_Fc5ZAcHxc",
+      "duration_sec": 4922.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "ChlQLoMuTeE",
+      "title": "An Ask Dave Mailbag, a Dinner Time Live Italian Food Revelation | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=ChlQLoMuTeE",
+      "duration_sec": 2824.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "q9MuaCsy5xw",
+      "title": "Dinner Time Live Post-Opening Diaries and a Boiled Chicken | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=q9MuaCsy5xw",
+      "duration_sec": 3203.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "CD4uyyP0UqE",
+      "title": "Gazpacho and Laughter with @goodboy noah | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=CD4uyyP0UqE",
+      "duration_sec": 3090.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "wYs4vh6ZHNA",
+      "title": "Shucking Oysters and a European Vacation | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=wYs4vh6ZHNA",
+      "duration_sec": 2649.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "3g91J7Rrx1o",
+      "title": "Dinner Time Live Season 3: Pre-Opening Diaries | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=3g91J7Rrx1o",
+      "duration_sec": 3452.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "zCMdkl18XtU",
+      "title": "Chicago: Hospitality, Hot Dogs, and Pizza with Donnie Madia | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=zCMdkl18XtU",
+      "duration_sec": 6563.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "-CvoT36bjXQ",
+      "title": "Cooking, Music, and Creativity with Samin Nosrat and Hrishikesh Hirway | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=-CvoT36bjXQ",
+      "duration_sec": 5950.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "l__8KBc2km8",
+      "title": "An Ask Dave Mailbag | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=l__8KBc2km8",
+      "duration_sec": 2811.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "4UgY6PkVGoU",
+      "title": "Cooking for a Cause with Dan Giusti | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=4UgY6PkVGoU",
+      "duration_sec": 5843.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "BX2CV5gFz4Y",
+      "title": "At the Plate(s) with Gerrit Cole | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=BX2CV5gFz4Y",
+      "duration_sec": 4341.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "yG89dTt0FBM",
+      "title": "Southern Dining and an Atlas: Nashville edition with Kahlil Arnold | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=yG89dTt0FBM",
+      "duration_sec": 4299.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "HAbfNUYUfXI",
+      "title": "Mexico City with Enrique Olvera | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=HAbfNUYUfXI",
+      "duration_sec": 4172.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "lMsRnrrYL_M",
+      "title": "Claiming Identity with Edward Lee | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=lMsRnrrYL_M",
+      "duration_sec": 4824.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "kEzqFebwKZc",
+      "title": "Dave & Chris Finally Talk About 'The Bear': Season 3 | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=kEzqFebwKZc",
+      "duration_sec": 7416.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "2-1b04n8Vcw",
+      "title": "Dave & Chris Finally Talk About 'The Bear': Season 2 | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=2-1b04n8Vcw",
+      "duration_sec": 5701.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "C0QSNhSQfkY",
+      "title": "Growing Up with Roy Choi | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=C0QSNhSQfkY",
+      "duration_sec": 6208.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "gyFHTAZcDXg",
+      "title": "Dave & Chris Finally Talk About 'The Bear': Season 1 | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=gyFHTAZcDXg",
+      "duration_sec": 6150.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "CkIZ1gP_YCA",
+      "title": "Cooking as Art with Michael Cimarusti | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=CkIZ1gP_YCA",
+      "duration_sec": 6109.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "xDExaf35qDM",
+      "title": "Food Criticism with Besha Rodell | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=xDExaf35qDM",
+      "duration_sec": 6926.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "1-8EEni4ZCc",
+      "title": "Ramen in Real Time | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=1-8EEni4ZCc",
+      "duration_sec": 5870.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "J6gvc7ICJto",
+      "title": "Feeling Good with Paul Carmichael | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=J6gvc7ICJto",
+      "duration_sec": 4612.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "H3f_AZF4an0",
+      "title": "Taco Culture with Javier Cabral | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=H3f_AZF4an0",
+      "duration_sec": 5130.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "YyFveotyzTA",
+      "title": "Hospitality First with Will Guidara | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=YyFveotyzTA",
+      "duration_sec": 4466.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "nANNqqPKcZ8",
+      "title": "Chasing Perfection with Ben Shewry | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=nANNqqPKcZ8",
+      "duration_sec": 4824.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "hLBUDd6U3Rs",
+      "title": "Being Competitive with Aisha Ibrahim | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=hLBUDd6U3Rs",
+      "duration_sec": 5569.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "eBhFRoT9Pgs",
+      "title": "Wine-ing Down with Justin Pichetrungsi & Ian Krupp | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=eBhFRoT9Pgs",
+      "duration_sec": 7648.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "YyGab5S5ALw",
+      "title": "Innovation with Dominique Ansel | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=YyGab5S5ALw",
+      "duration_sec": 4135.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "doKbYHeiaKc",
+      "title": "Braving the Unknown Path with Chef Nancy Silverton | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=doKbYHeiaKc",
+      "duration_sec": 4098.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "AwXXVXVSUFM",
+      "title": "Friendship and Cereal with Kelly Meinhardt and Charlotte Duerden | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=AwXXVXVSUFM",
+      "duration_sec": 4422.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "mJPz5LYlhDU",
+      "title": "Post-Surgery Platitudes and Dave's Kitchen Essentials | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=mJPz5LYlhDU",
+      "duration_sec": 4175.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "8wb8XiaiiDc",
+      "title": "The Fundamentals of Oysters with Found Oyster's Ari Kolender | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=8wb8XiaiiDc",
+      "duration_sec": 3761.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "vcdVY7FXyeI",
+      "title": "Tea 101 with Steep LA's Sam Wang and Lydia Lin | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=vcdVY7FXyeI",
+      "duration_sec": 4073.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "9QqnKhLO5Cs",
+      "title": "The Romantic Ideal of a Restaurant with Sean Gray | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=9QqnKhLO5Cs",
+      "duration_sec": 3566.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "rbwYL4jh0Ik",
+      "title": "Kabawa Pre-Opening Diaries with Paul Carmichael | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=rbwYL4jh0Ik",
+      "duration_sec": 4011.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "EkOS5XLCsX0",
+      "title": "The Risk and Reward of Being a Restaurateur with Anoop Pillarisetti | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=EkOS5XLCsX0",
+      "duration_sec": 3336.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "QsKKidj7f7E",
+      "title": "Thinking for Yourself, Tasting for Yourself with Christina Tosi | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=QsKKidj7f7E",
+      "duration_sec": 4010.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "YK386X_ltb8",
+      "title": "Las Vegas Diaries with Eddie Huang | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=YK386X_ltb8",
+      "duration_sec": 2845.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "n1ZI-iyThZk",
+      "title": "Thanksgiving Ask Dave and the Return of Pie Opinion Is Fact | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=n1ZI-iyThZk",
+      "duration_sec": 3752.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "1Sbd6oL98wo",
+      "title": "Staying Ahead of the Curve with Tom Colicchio | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=1Sbd6oL98wo",
+      "duration_sec": 3691.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "hGwJTlRC_Ic",
+      "title": "Defining Excellence in Food with Chef Roy Shvartzapel | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=hGwJTlRC_Ic",
+      "duration_sec": 4474.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "ssT9PmewgnM",
+      "title": "Primary Source: Fish with The Joint's Liwei Liao | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=ssT9PmewgnM",
+      "duration_sec": 5112.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "g6s2RlSCwX4",
+      "title": "TV Food Styling with Courtney McBroom | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=g6s2RlSCwX4",
+      "duration_sec": 2694.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "Wi5KlOhawpg",
+      "title": "Committing to Flavor with Chef Joshua Skenes | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=Wi5KlOhawpg",
+      "duration_sec": 4647.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "1D4yyQp9rQU",
+      "title": "Culinary Class Wars and Doppelg\u00e4ngers with Chef Edward Lee | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=1D4yyQp9rQU",
+      "duration_sec": 3563.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "5LSpQHimPoE",
+      "title": "Noodlefest | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=5LSpQHimPoE",
+      "duration_sec": 4127.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "9N5KZ4uXHpI",
+      "title": "Family Feud 'VIP Access Pass' with Mina Kimes and Pablo Torre | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=9N5KZ4uXHpI",
+      "duration_sec": 3314.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "KbcfmhMQ63g",
+      "title": "\u2018Chapter One\u2019 with Bobby Flay | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=KbcfmhMQ63g",
+      "duration_sec": 3450.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "rW4VjssGCSg",
+      "title": "Noma 2.0: No Compromises, With Rene Redzepi | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=rW4VjssGCSg",
+      "duration_sec": 3642.0,
+      "playlist": "The Dave Chang Show - Videos"
+    },
+    {
+      "id": "Fa1IOR2BuXE",
+      "title": "DCS LIVESTREAM | Primary Source: Fish with The Joint's Liwei Liao",
+      "url": "https://www.youtube.com/watch?v=Fa1IOR2BuXE",
+      "duration_sec": 5317.0,
+      "playlist": "The Dave Chang Show - Live"
+    },
+    {
+      "id": "kyFTrdT1SmI",
+      "title": "Behind the Scenes of Dinner Time Live  | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=kyFTrdT1SmI",
+      "duration_sec": 6038.0,
+      "playlist": "The Dave Chang Show - Live"
+    },
+    {
+      "id": "nxLBr97cmaA",
+      "title": "The GOAT of Eating | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/watch?v=nxLBr97cmaA",
+      "duration_sec": 4550.0,
+      "playlist": "The Dave Chang Show - Live"
+    },
+    {
+      "id": "D_5AuZ_mmt8",
+      "title": "Food = Time Travel?",
+      "url": "https://www.youtube.com/shorts/D_5AuZ_mmt8",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "TSFCYeuOjVA",
+      "title": "Delicious 2-ingredient gnocchi!",
+      "url": "https://www.youtube.com/shorts/TSFCYeuOjVA",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "Bmf25NUJeHc",
+      "title": "Madison Square Garden: Bright Lights",
+      "url": "https://www.youtube.com/shorts/Bmf25NUJeHc",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "RUABz5ipQ2k",
+      "title": "Changed His Diet & Proved Them Wrong @NBA",
+      "url": "https://www.youtube.com/shorts/RUABz5ipQ2k",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "rKH7MHUreEo",
+      "title": "Open Kitchen Insights",
+      "url": "https://www.youtube.com/shorts/rKH7MHUreEo",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "jY4WHcJNw_4",
+      "title": "Why America Loves Ranch",
+      "url": "https://www.youtube.com/shorts/jY4WHcJNw_4",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "pVWg553UfD8",
+      "title": "Spicy Tuna Food Mill Tip!",
+      "url": "https://www.youtube.com/shorts/pVWg553UfD8",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "T-pQNjPyIgU",
+      "title": "New HOT potato, old tricks!",
+      "url": "https://www.youtube.com/shorts/T-pQNjPyIgU",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "6J-s8oXMFwo",
+      "title": "A tip for temp!",
+      "url": "https://www.youtube.com/shorts/6J-s8oXMFwo",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "HnrCVQGRSfQ",
+      "title": "Why iceberg is the KING of lettuces!",
+      "url": "https://www.youtube.com/shorts/HnrCVQGRSfQ",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "w9wFACHdGag",
+      "title": "Oatmeal defenders out there?",
+      "url": "https://www.youtube.com/shorts/w9wFACHdGag",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "Rge0w8elHaM",
+      "title": "TOO talented: a bad thing?",
+      "url": "https://www.youtube.com/shorts/Rge0w8elHaM",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "MyN2YQpdQoU",
+      "title": "The impact of 'Kitchen Confidential'",
+      "url": "https://www.youtube.com/shorts/MyN2YQpdQoU",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "p6cAoKkIheI",
+      "title": "K-Pop Demon Hunters Everywhere! K-Everything!",
+      "url": "https://www.youtube.com/shorts/p6cAoKkIheI",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "VCvg6a0Yok4",
+      "title": "How do you peel your eggs?",
+      "url": "https://www.youtube.com/shorts/VCvg6a0Yok4",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "u8P628AdyHQ",
+      "title": "A sandwich worth singing for...",
+      "url": "https://www.youtube.com/shorts/u8P628AdyHQ",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "Q8BnMXJsq10",
+      "title": "No-phone zones are the future!",
+      "url": "https://www.youtube.com/shorts/Q8BnMXJsq10",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "Htzf5-lgT2A",
+      "title": "The Chef Curse with @Mina Kimes - ESPN",
+      "url": "https://www.youtube.com/shorts/Htzf5-lgT2A",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "ndLH6oZBSVs",
+      "title": "UPSETTING FOOD HISTORY with @Mina Kimes - ESPN",
+      "url": "https://www.youtube.com/shorts/ndLH6oZBSVs",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "Tc47Z3wpKi0",
+      "title": "A key to crispy chicken skin!",
+      "url": "https://www.youtube.com/shorts/Tc47Z3wpKi0",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "MKU1LLkFCqY",
+      "title": "Homemade bulldog sauce!",
+      "url": "https://www.youtube.com/shorts/MKU1LLkFCqY",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "u5F6GAWU1f8",
+      "title": "Being Korean American with @Eric Nam \uc5d0\ub9ad\ub0a8",
+      "url": "https://www.youtube.com/shorts/u5F6GAWU1f8",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "Pmqv1kecsMg",
+      "title": "Next season of Traitors...? with @Eric Nam \uc5d0\ub9ad\ub0a8",
+      "url": "https://www.youtube.com/shorts/Pmqv1kecsMg",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "IZgQKu-STSI",
+      "title": "The Perfect Steak with Joel McHale",
+      "url": "https://www.youtube.com/shorts/IZgQKu-STSI",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "Lji0BZOgJS4",
+      "title": "How Joel McHale Got Into Meat!",
+      "url": "https://www.youtube.com/shorts/Lji0BZOgJS4",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "TfWzeFbrFBY",
+      "title": "DON'T throw that away in the kitchen",
+      "url": "https://www.youtube.com/shorts/TfWzeFbrFBY",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "9zhAYbg0blg",
+      "title": "Chef Dave Chang making culinary connections!",
+      "url": "https://www.youtube.com/shorts/9zhAYbg0blg",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "de6ZP1bfLvw",
+      "title": "Too HOT for chef hands?!",
+      "url": "https://www.youtube.com/shorts/de6ZP1bfLvw",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "f6GWai4fmDQ",
+      "title": "HOLD FOR TECHNICAL DIFFICULTIES",
+      "url": "https://www.youtube.com/shorts/f6GWai4fmDQ",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "BYqkb5QEPwk",
+      "title": "Using a pressure cooker...!",
+      "url": "https://www.youtube.com/shorts/BYqkb5QEPwk",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "73eaTjBcGts",
+      "title": "Chicken, salad, and soup, oh my!",
+      "url": "https://www.youtube.com/shorts/73eaTjBcGts",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "Z9sIVPOzvI4",
+      "title": "Chasing a food memory!",
+      "url": "https://www.youtube.com/shorts/Z9sIVPOzvI4",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "pooXdODhh9E",
+      "title": "Sometimes flaws make it perfect... with @Chris Young",
+      "url": "https://www.youtube.com/shorts/pooXdODhh9E",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "Q6Xu_LpuFG4",
+      "title": "Best French Fries at Home! with @Chris Young",
+      "url": "https://www.youtube.com/shorts/Q6Xu_LpuFG4",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "Uk7hp-oTN0A",
+      "title": "The Problem with Pre-Ground Spices with @From First Principles Podcast",
+      "url": "https://www.youtube.com/shorts/Uk7hp-oTN0A",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "Ur5whT_38Gs",
+      "title": "Where science and cooking meet! @From First Principles Podcast",
+      "url": "https://www.youtube.com/shorts/Ur5whT_38Gs",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "EQTN-WXBJ40",
+      "title": "From Food Critic to Chef!?",
+      "url": "https://www.youtube.com/shorts/EQTN-WXBJ40",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "rLQSNyuw6YY",
+      "title": "Paris: The City of...Produce?",
+      "url": "https://www.youtube.com/shorts/rLQSNyuw6YY",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "3tbM6s0VY98",
+      "title": "Chefs vs GLP-1s: Who will win?",
+      "url": "https://www.youtube.com/shorts/3tbM6s0VY98",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "sjx77rB5e5E",
+      "title": "The best odds in the casino + the best bite in a meal",
+      "url": "https://www.youtube.com/shorts/sjx77rB5e5E",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "KNWVl33JBLI",
+      "title": "Define success - what if you don't reach it?",
+      "url": "https://www.youtube.com/shorts/KNWVl33JBLI",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "dn9EQLeqTH0",
+      "title": "Lasagna vs Casserole: Different Leagues",
+      "url": "https://www.youtube.com/shorts/dn9EQLeqTH0",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "u0GfD9cjnc8",
+      "title": "The French use baguettes...the WORST?",
+      "url": "https://www.youtube.com/shorts/u0GfD9cjnc8",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "XNjdyh4QJ78",
+      "title": "New Orleans: The Kyoto of the US?",
+      "url": "https://www.youtube.com/shorts/XNjdyh4QJ78",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "MQIGMiWRN3g",
+      "title": "A Real Win-Win Scenario",
+      "url": "https://www.youtube.com/shorts/MQIGMiWRN3g",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "T16hEBa698c",
+      "title": "Sesame Sauce/Goma Dare for Shabu-Shabu is key",
+      "url": "https://www.youtube.com/shorts/T16hEBa698c",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "GReQZVP4YeQ",
+      "title": "Eating in Japan",
+      "url": "https://www.youtube.com/shorts/GReQZVP4YeQ",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "ksvAaOqFCIk",
+      "title": "Breakfast Lightsabers! with @David Ma",
+      "url": "https://www.youtube.com/shorts/ksvAaOqFCIk",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "KY83OEMHRb4",
+      "title": "This is BANCHAN",
+      "url": "https://www.youtube.com/shorts/KY83OEMHRb4",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "cf77xDTIrHg",
+      "title": "A Food of the Future",
+      "url": "https://www.youtube.com/shorts/cf77xDTIrHg",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "FlSBvu2brgM",
+      "title": "That's Between You and the FBI",
+      "url": "https://www.youtube.com/shorts/FlSBvu2brgM",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "KM1nVWW_2QI",
+      "title": "Fat Thumbs = Liking the Wrong Things on Accident",
+      "url": "https://www.youtube.com/shorts/KM1nVWW_2QI",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "wNMU-Lt-h6U",
+      "title": "Chuck: Underrated",
+      "url": "https://www.youtube.com/shorts/wNMU-Lt-h6U",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "aQ_aGqVRmUQ",
+      "title": "Messing with Nostalgia is RISKY",
+      "url": "https://www.youtube.com/shorts/aQ_aGqVRmUQ",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "B7RYs1RoWNU",
+      "title": "2 Ingredients, 1 Delicious Pancake",
+      "url": "https://www.youtube.com/shorts/B7RYs1RoWNU",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "mEzcskEp7j4",
+      "title": "HOT POTATO! IRL",
+      "url": "https://www.youtube.com/shorts/mEzcskEp7j4",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "8kogOJI4lw0",
+      "title": "The Ultimate Omelette Order with @Bill Simmons",
+      "url": "https://www.youtube.com/shorts/8kogOJI4lw0",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "UO0aPfMTi2Q",
+      "title": "A restaurant that only does WHAT? with @Bill Simmons",
+      "url": "https://www.youtube.com/shorts/UO0aPfMTi2Q",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "TMkie_wyRzw",
+      "title": "Getting CRISPY chicken skin + a good time!",
+      "url": "https://www.youtube.com/shorts/TMkie_wyRzw",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "z9dRJObsrHI",
+      "title": "Keep your options OPEN!",
+      "url": "https://www.youtube.com/shorts/z9dRJObsrHI",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "Ewa5dtpt8KI",
+      "title": "Family (Meal) Matters!",
+      "url": "https://www.youtube.com/shorts/Ewa5dtpt8KI",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "u28QuqPsgSU",
+      "title": "From made fun of to EVERYWHERE...",
+      "url": "https://www.youtube.com/shorts/u28QuqPsgSU",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "py_PnlZxUnc",
+      "title": "Learning to TASTE properly",
+      "url": "https://www.youtube.com/shorts/py_PnlZxUnc",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "bIErxq7a7P0",
+      "title": "All of that from just RICE?",
+      "url": "https://www.youtube.com/shorts/bIErxq7a7P0",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "wrz2BgtSFBI",
+      "title": "Would you give up HOT foods or COLD foods?",
+      "url": "https://www.youtube.com/shorts/wrz2BgtSFBI",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "8PKZqKVlAwI",
+      "title": "TOP 4 BEST Countries for Dairy Products!",
+      "url": "https://www.youtube.com/shorts/8PKZqKVlAwI",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "_RRRAHo3nYU",
+      "title": "Seasonality: A gift...and a CURSE",
+      "url": "https://www.youtube.com/shorts/_RRRAHo3nYU",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "_2vqyuNinYM",
+      "title": "Maturity means knowing what NOT to do",
+      "url": "https://www.youtube.com/shorts/_2vqyuNinYM",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "jUaFsnKOfic",
+      "title": "Just Be Present!",
+      "url": "https://www.youtube.com/shorts/jUaFsnKOfic",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "LNlUQE80TkA",
+      "title": "Man's (Dave's) Best Friend",
+      "url": "https://www.youtube.com/shorts/LNlUQE80TkA",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "P8Gb9SmKY90",
+      "title": "Plain Potato Chips STINK",
+      "url": "https://www.youtube.com/shorts/P8Gb9SmKY90",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "kpG08gxiQh8",
+      "title": "Serving Size Lies!",
+      "url": "https://www.youtube.com/shorts/kpG08gxiQh8",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "nUtjBbI3sOI",
+      "title": "Chef Dave Chang's Dream Restaurant",
+      "url": "https://www.youtube.com/shorts/nUtjBbI3sOI",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "lvDDnRFQg9U",
+      "title": "Will they pull it off LIVE on Netflix?",
+      "url": "https://www.youtube.com/shorts/lvDDnRFQg9U",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "xGXdLGD68A4",
+      "title": "Two DELICIOUS souffl\u00e9s!",
+      "url": "https://www.youtube.com/shorts/xGXdLGD68A4",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "yIrx6PsjtXk",
+      "title": "The Science of a Rising Souffl\u00e9!!",
+      "url": "https://www.youtube.com/shorts/yIrx6PsjtXk",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "RVNA-q2Adg8",
+      "title": "What animal would YOU be?",
+      "url": "https://www.youtube.com/shorts/RVNA-q2Adg8",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "2IEnFEbMD9M",
+      "title": "The underdiscussed pain of cooking\u2026",
+      "url": "https://www.youtube.com/shorts/2IEnFEbMD9M",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "Uv2P1Yl_dMU",
+      "title": "Sandwich King @Owen Han's Top 5 Sandwich Cities in the US!",
+      "url": "https://www.youtube.com/shorts/Uv2P1Yl_dMU",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "V-ID2Jh3VkQ",
+      "title": "Best Friends, Best in the Biz @Owen Han @h woo",
+      "url": "https://www.youtube.com/shorts/V-ID2Jh3VkQ",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "MJF5cyV5Jeo",
+      "title": "Eating in the CAR?",
+      "url": "https://www.youtube.com/shorts/MJF5cyV5Jeo",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "szzTqczYHsw",
+      "title": "There's no taste like home!",
+      "url": "https://www.youtube.com/shorts/szzTqczYHsw",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "CNIL7ZL4wYo",
+      "title": "The Taco Bell Mindset!",
+      "url": "https://www.youtube.com/shorts/CNIL7ZL4wYo",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "kkU37ZvzTxg",
+      "title": "Taco Bell gets ideas in unlikely places!!",
+      "url": "https://www.youtube.com/shorts/kkU37ZvzTxg",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "CUuHS4yGxB4",
+      "title": "Fashion is how you express You! #fashion #japan #expression #beyourself",
+      "url": "https://www.youtube.com/shorts/CUuHS4yGxB4",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "gisRRKum6kw",
+      "title": "From Japan to...UTAH?!?!",
+      "url": "https://www.youtube.com/shorts/gisRRKum6kw",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "sj2JxQsKqMc",
+      "title": "Parties should be tax write-offs!",
+      "url": "https://www.youtube.com/shorts/sj2JxQsKqMc",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "Irmjx67Nc4Q",
+      "title": "Your party, your rules!",
+      "url": "https://www.youtube.com/shorts/Irmjx67Nc4Q",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "jMAKBOt_qE0",
+      "title": "Measurement Contest FAIL",
+      "url": "https://www.youtube.com/shorts/jMAKBOt_qE0",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "xam2i_YvJDQ",
+      "title": "A COMMON kitchen injury!",
+      "url": "https://www.youtube.com/shorts/xam2i_YvJDQ",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "iLr4wukNMBc",
+      "title": "Wines are TOO expensive!",
+      "url": "https://www.youtube.com/shorts/iLr4wukNMBc",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "5cXQ50T4Wc0",
+      "title": "The trick to blind tasting wines!",
+      "url": "https://www.youtube.com/shorts/5cXQ50T4Wc0",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "hNK4uCQN3AM",
+      "title": "A tax on SUGAR!?",
+      "url": "https://www.youtube.com/shorts/hNK4uCQN3AM",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "nBqM7-BAXh4",
+      "title": "Our favorite foods are DISAPPEARING",
+      "url": "https://www.youtube.com/shorts/nBqM7-BAXh4",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "lmy_I8m26EA",
+      "title": "The CRAZIEST answer to a hand-washing question!!!",
+      "url": "https://www.youtube.com/shorts/lmy_I8m26EA",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "iu89TOWe3nM",
+      "title": "Bourbon Steak, Bourbon, Steak, and Steph and Ayesha Curry!",
+      "url": "https://www.youtube.com/shorts/iu89TOWe3nM",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "LC6hmQZJABI",
+      "title": "You can change one thing about food...",
+      "url": "https://www.youtube.com/shorts/LC6hmQZJABI",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "j-QBhD2kHxY",
+      "title": "WHO is a food critic in the UK???",
+      "url": "https://www.youtube.com/shorts/j-QBhD2kHxY",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "EViB_bDagQQ",
+      "title": "Steakhouses = Modern-day Sacrifice???",
+      "url": "https://www.youtube.com/shorts/EViB_bDagQQ",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "k6PKvr5H8Vc",
+      "title": "BEST steakhouse in America?",
+      "url": "https://www.youtube.com/shorts/k6PKvr5H8Vc",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "Ong7_Zf-9po",
+      "title": "The Yankees of FOOD!",
+      "url": "https://www.youtube.com/shorts/Ong7_Zf-9po",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "XAoqqP4K9S8",
+      "title": "Avoid these rookie restaurant MONEY MISTAKES! $$$",
+      "url": "https://www.youtube.com/shorts/XAoqqP4K9S8",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "_S0RX7VPmNw",
+      "title": "The Chef Dark Arts! They Won't Teach This in Cooking School",
+      "url": "https://www.youtube.com/shorts/_S0RX7VPmNw",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "tyynx1iapgA",
+      "title": "Has Instagram overtaken real life?",
+      "url": "https://www.youtube.com/shorts/tyynx1iapgA",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "fI5cv20kr_Q",
+      "title": "Growing up is HARD",
+      "url": "https://www.youtube.com/shorts/fI5cv20kr_Q",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "hT-p-r7a93g",
+      "title": "\"Overnight\" success is NOT overnight!",
+      "url": "https://www.youtube.com/shorts/hT-p-r7a93g",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "mT9fAk0U8BU",
+      "title": "Hey, I'm WALKIN' HERE!",
+      "url": "https://www.youtube.com/shorts/mT9fAk0U8BU",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "HcFx1aJuYqk",
+      "title": "A b\u00e1nh m\u00ec worth sharing!",
+      "url": "https://www.youtube.com/shorts/HcFx1aJuYqk",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "yiJOIk36lZw",
+      "title": "Talking LA Bagels...in New York??",
+      "url": "https://www.youtube.com/shorts/yiJOIk36lZw",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "hadIM_l2OFE",
+      "title": "The Island of Superiority Burger! YUM",
+      "url": "https://www.youtube.com/shorts/hadIM_l2OFE",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "KypQpKbcS3k",
+      "title": "Risotto: Undercooked, Overrated?",
+      "url": "https://www.youtube.com/shorts/KypQpKbcS3k",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "p5R-7P72-gI",
+      "title": "100-Layer, Detroit-Style Lasagna?!?! DELICIOUS",
+      "url": "https://www.youtube.com/shorts/p5R-7P72-gI",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "mTbPZjJdJpk",
+      "title": "Burgers = Umami B0MBS!",
+      "url": "https://www.youtube.com/shorts/mTbPZjJdJpk",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "20cIUvTaaVY",
+      "title": "THE BURGER BOOM!",
+      "url": "https://www.youtube.com/shorts/20cIUvTaaVY",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "6U9jw2CwDiQ",
+      "title": "STRESSED about the future? US TOO! But...",
+      "url": "https://www.youtube.com/shorts/6U9jw2CwDiQ",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "xoCTPD8mbC0",
+      "title": "Messing up is a GOOD thing?!",
+      "url": "https://www.youtube.com/shorts/xoCTPD8mbC0",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "3035hG8Z5-o",
+      "title": "Homemade pizza CAN be easy and delicious!",
+      "url": "https://www.youtube.com/shorts/3035hG8Z5-o",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "ci1fn8uwwvk",
+      "title": "A good attitude is BETTER than experience!",
+      "url": "https://www.youtube.com/shorts/ci1fn8uwwvk",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "6b3XAtmzzn4",
+      "title": "Is loving French Fries GENETIC?",
+      "url": "https://www.youtube.com/shorts/6b3XAtmzzn4",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "d9GPGmpNtBw",
+      "title": "This food phrase is STUPID",
+      "url": "https://www.youtube.com/shorts/d9GPGmpNtBw",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "hJU67A_6hi8",
+      "title": "2 KEY traits of a successful chef!",
+      "url": "https://www.youtube.com/shorts/hJU67A_6hi8",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "bAvHmFTL10M",
+      "title": "OKAY, IT'S HAPPENING! EVERYBODY STAY CALM!",
+      "url": "https://www.youtube.com/shorts/bAvHmFTL10M",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "EROLhJX5lBc",
+      "title": "\"If you were on your deathbed, would you be content with your life?\"",
+      "url": "https://www.youtube.com/shorts/EROLhJX5lBc",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "XWfzADGsYVs",
+      "title": "\"My mom loves me but she hates my coffee\"",
+      "url": "https://www.youtube.com/shorts/XWfzADGsYVs",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "PJ7sph00vAk",
+      "title": "Silly Dave, childhood memories are for kids!",
+      "url": "https://www.youtube.com/shorts/PJ7sph00vAk",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "1dGZS8rg7Ac",
+      "title": "Is a BAD diner better than NO diner?",
+      "url": "https://www.youtube.com/shorts/1dGZS8rg7Ac",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "BrRIh7C0H1w",
+      "title": "Chicken wings: Let's get N@ked!!!",
+      "url": "https://www.youtube.com/shorts/BrRIh7C0H1w",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "PK2hW_EPnJc",
+      "title": "Dave remembers the PAIN on Hot Ones @First We Feast",
+      "url": "https://www.youtube.com/shorts/PK2hW_EPnJc",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "vkTDn-qyarA",
+      "title": "P is for Pop-Ups, and Pop-Ups are...not for Dave?",
+      "url": "https://www.youtube.com/shorts/vkTDn-qyarA",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "N7w9ll35JoM",
+      "title": "Delicious AND versatile?",
+      "url": "https://www.youtube.com/shorts/N7w9ll35JoM",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "o_gjwbruGdE",
+      "title": "\"Good Soup\" \ud83d\udc4c - Adam Driver, @goodboy noah, Chef Dave",
+      "url": "https://www.youtube.com/shorts/o_gjwbruGdE",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "NbyfIno4zu0",
+      "title": "@goodboy noah ROASTS David Chang's cookies!",
+      "url": "https://www.youtube.com/shorts/NbyfIno4zu0",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "DoZdosQPG-w",
+      "title": "Is the West Coast or East Coast better?",
+      "url": "https://www.youtube.com/shorts/DoZdosQPG-w",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "b_3ZDlJxIJY",
+      "title": "Oysters: Don't Try This At Home!",
+      "url": "https://www.youtube.com/shorts/b_3ZDlJxIJY",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "2S9YwFtJSeQ",
+      "title": "The BEST 2-ingredient dessert EVER?",
+      "url": "https://www.youtube.com/shorts/2S9YwFtJSeQ",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "V11JZGK77eI",
+      "title": "Addicted to the pain of opening a restaurant? Try Dinner Time Live!",
+      "url": "https://www.youtube.com/shorts/V11JZGK77eI",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "ttq16F6HErY",
+      "title": "Deep dish pizza defenders WHERE ARE YOU???",
+      "url": "https://www.youtube.com/shorts/ttq16F6HErY",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "Hot6G6NZNjI",
+      "title": "Food + Community = Human Connection!",
+      "url": "https://www.youtube.com/shorts/Hot6G6NZNjI",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "ohde9oHdJQk",
+      "title": "You have to start somewhere\u2026 \ud83c\udf6a",
+      "url": "https://www.youtube.com/shorts/ohde9oHdJQk",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "hjPBQfop4qE",
+      "title": "TRUST YOUR GUT! #cooking #trust #recipe #gut",
+      "url": "https://www.youtube.com/shorts/hjPBQfop4qE",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "b3nnbqiDB7U",
+      "title": "Send in your questions and maybe you could inspire Dave too! #brisket #seasoning #askdave",
+      "url": "https://www.youtube.com/shorts/b3nnbqiDB7U",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "1hrhh9-Ru3w",
+      "title": "The thing that haunts Dave is NOT what you would expect! #flyfishing #mexico #fishing #fish",
+      "url": "https://www.youtube.com/shorts/1hrhh9-Ru3w",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "bgHP7FoE73A",
+      "title": "EVERYONE eats and EVERYONE has an opinion #protein #meat #diet #opinion",
+      "url": "https://www.youtube.com/shorts/bgHP7FoE73A",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "FMt4VVzfs28",
+      "title": "There's NO such thing as too much protein\ud83e\udd69 #meat #protein #diet",
+      "url": "https://www.youtube.com/shorts/FMt4VVzfs28",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "qtHgUKHZBfo",
+      "title": "The HARDEST part of being a parent? #parenting #family #podcast",
+      "url": "https://www.youtube.com/shorts/qtHgUKHZBfo",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "uizhfe0jzHQ",
+      "title": "The BEST food vacation destinations... #travel #food #vacation",
+      "url": "https://www.youtube.com/shorts/uizhfe0jzHQ",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "pgHEUhkkNi0",
+      "title": "Egg whites or yolks? #podcast #egg #debate",
+      "url": "https://www.youtube.com/shorts/pgHEUhkkNi0",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "2dRBBb9YbfY",
+      "title": "Further investigating the seed oil debate... #podcast #debate #health #seedoils",
+      "url": "https://www.youtube.com/shorts/2dRBBb9YbfY",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "c5FAJNhHTX4",
+      "title": "The BEST people-watching restaurant! #eating  #dining  #peoplewatching",
+      "url": "https://www.youtube.com/shorts/c5FAJNhHTX4",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "GqFP7geFMAo",
+      "title": "DON'T TRUST THIS MAN! #thebear #hulu #podcast",
+      "url": "https://www.youtube.com/shorts/GqFP7geFMAo",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "l4nGM1Tqe1g",
+      "title": "Everyone should be FIRED! #thebear #hulu #chef",
+      "url": "https://www.youtube.com/shorts/l4nGM1Tqe1g",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "zdvFL4Fb6rY",
+      "title": "A cartoonishly BIG appetite!",
+      "url": "https://www.youtube.com/shorts/zdvFL4Fb6rY",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "ifK-Wx4LJto",
+      "title": "Respect institutional chefs!",
+      "url": "https://www.youtube.com/shorts/ifK-Wx4LJto",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "IimdsdWBYyc",
+      "title": "\"Every day is a great day to be a Yankee\" !",
+      "url": "https://www.youtube.com/shorts/IimdsdWBYyc",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "fKxxy7Gjrvw",
+      "title": "Baseball player SHOCKS chef with food knowledge!",
+      "url": "https://www.youtube.com/shorts/fKxxy7Gjrvw",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "sSMffM2X35I",
+      "title": "7-UP PANCAKES?!?! Sign us up!",
+      "url": "https://www.youtube.com/shorts/sSMffM2X35I",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "PXLgYgvvFMI",
+      "title": "Vin Diesel probably loves Southern food...it's all about FAMILY",
+      "url": "https://www.youtube.com/shorts/PXLgYgvvFMI",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "o_M_Ypalkp0",
+      "title": "The KEY to a great taco!",
+      "url": "https://www.youtube.com/shorts/o_M_Ypalkp0",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "XHWRiW8tzaQ",
+      "title": "The BEST savory course in THE WORLD?",
+      "url": "https://www.youtube.com/shorts/XHWRiW8tzaQ",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "57034Ydt9gI",
+      "title": "Expand your horizons, expand your palate!",
+      "url": "https://www.youtube.com/shorts/57034Ydt9gI",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "PrYCKGPM4g4",
+      "title": "LET YOURSELF COOK!!!",
+      "url": "https://www.youtube.com/shorts/PrYCKGPM4g4",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "f9z1M8FTCu8",
+      "title": "One Dave was harmed in the making of this podcast \ud83e\udd23",
+      "url": "https://www.youtube.com/shorts/f9z1M8FTCu8",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "r5sSUNOj-To",
+      "title": "Would YOU go to a restaurant where all the food is made by ROBOTS? \ud83e\udd16",
+      "url": "https://www.youtube.com/shorts/r5sSUNOj-To",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "o9SzeAvNvn8",
+      "title": "3 must-haves for your kitchen \ud83d\udc68\u200d\ud83c\udf73",
+      "url": "https://www.youtube.com/shorts/o9SzeAvNvn8",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "oc7WBqtcl3M",
+      "title": "MEATLOAF STONKS \ud83d\udcc8\ud83d\udcc8\ud83d\udcc8",
+      "url": "https://www.youtube.com/shorts/oc7WBqtcl3M",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "U7udS7iMe-0",
+      "title": "In this house, we stan Marcus\ud83d\ude0d",
+      "url": "https://www.youtube.com/shorts/U7udS7iMe-0",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "XcqJMtZn-eU",
+      "title": "Lions and Tigers and The Bear, OH MY!",
+      "url": "https://www.youtube.com/shorts/XcqJMtZn-eU",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "wVdnpLUb6e4",
+      "title": "Confidence is contagious!",
+      "url": "https://www.youtube.com/shorts/wVdnpLUb6e4",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "Zd0TeWbtW4g",
+      "title": "Cooking means joy at ANY cost!",
+      "url": "https://www.youtube.com/shorts/Zd0TeWbtW4g",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "70opGauHJrM",
+      "title": "WHO heard about the Kogi Truck first??!",
+      "url": "https://www.youtube.com/shorts/70opGauHJrM",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "RRX5FDbHESk",
+      "title": "In dark times...out rose: The Kogi Truck!",
+      "url": "https://www.youtube.com/shorts/RRX5FDbHESk",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "Uzb1-RsxwSo",
+      "title": "Figure it out and fire it up!\ud83d\udd25",
+      "url": "https://www.youtube.com/shorts/Uzb1-RsxwSo",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "NrqwsKVzCV4",
+      "title": "The best portrayal of food in TV EVER?",
+      "url": "https://www.youtube.com/shorts/NrqwsKVzCV4",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "LDVS0pqPQbA",
+      "title": "Good chefs never lose their touch \ud83d\ude09",
+      "url": "https://www.youtube.com/shorts/LDVS0pqPQbA",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "0wlOZdZQN7M",
+      "title": "Is cooking an ART or a CRAFT?!",
+      "url": "https://www.youtube.com/shorts/0wlOZdZQN7M",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "EfX6KIDNUxE",
+      "title": "Honesty is the best policy",
+      "url": "https://www.youtube.com/shorts/EfX6KIDNUxE",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "jLrfdCEojh0",
+      "title": "What a food critic should look for",
+      "url": "https://www.youtube.com/shorts/jLrfdCEojh0",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "G9C1LAXrAcI",
+      "title": "Clean up on aisle rice cooker!!!",
+      "url": "https://www.youtube.com/shorts/G9C1LAXrAcI",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "ZjZf77uUZPs",
+      "title": "\"Back in my day...\" ok boomer",
+      "url": "https://www.youtube.com/shorts/ZjZf77uUZPs",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "1drkOCxcxxY",
+      "title": "New Davestradamus just dropped\ud83d\udd2e",
+      "url": "https://www.youtube.com/shorts/1drkOCxcxxY",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "ft16FCOUSUo",
+      "title": "Ordering straight FIRE at Kabawa\ud83d\udd25",
+      "url": "https://www.youtube.com/shorts/ft16FCOUSUo",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "BZbazsGyADk",
+      "title": "Did this movie invent omurice?\ud83c\udf73",
+      "url": "https://www.youtube.com/shorts/BZbazsGyADk",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "sEHLYX4ZeNg",
+      "title": "TAMPOPO: The Dave Chang Story?",
+      "url": "https://www.youtube.com/shorts/sEHLYX4ZeNg",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "S4TYfpNK0HY",
+      "title": "Thank you for your service, Dr. Phil\ud83e\udee1",
+      "url": "https://www.youtube.com/shorts/S4TYfpNK0HY",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "e5FZFIlGlF0",
+      "title": "It takes 2 to TACO\ud83c\udf2e",
+      "url": "https://www.youtube.com/shorts/e5FZFIlGlF0",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "4Xew8SbtP7s",
+      "title": "Never a Dull Day!",
+      "url": "https://www.youtube.com/shorts/4Xew8SbtP7s",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "JRIVSsmOT40",
+      "title": "What is Unreasonable Hospitality?",
+      "url": "https://www.youtube.com/shorts/JRIVSsmOT40",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "xBMRsCkok6k",
+      "title": "Is Oatmeal Raisin the GOAT Cookie?\ud83c\udf6a",
+      "url": "https://www.youtube.com/shorts/xBMRsCkok6k",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "oTvL60Ayp0Y",
+      "title": "Lunch of CHAMPIONS \ud83e\uddc5",
+      "url": "https://www.youtube.com/shorts/oTvL60Ayp0Y",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "IfKIgQqNpEA",
+      "title": "Was I wrong???",
+      "url": "https://www.youtube.com/shorts/IfKIgQqNpEA",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "Qj0gQswSSRQ",
+      "title": "A taco expert on the RIGHT way to eat carnitas",
+      "url": "https://www.youtube.com/shorts/Qj0gQswSSRQ",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "pXycKgkvyKY",
+      "title": "Chasing the high of a PERFECT service!",
+      "url": "https://www.youtube.com/shorts/pXycKgkvyKY",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "cYqby3QqyFk",
+      "title": "Wine test sips are NOT what you think...",
+      "url": "https://www.youtube.com/shorts/cYqby3QqyFk",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "kYEgxLwmoo4",
+      "title": "Raise your hand if you love WINE!",
+      "url": "https://www.youtube.com/shorts/kYEgxLwmoo4",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "dEYmgmjvzHU",
+      "title": "The Children are Our Future",
+      "url": "https://www.youtube.com/shorts/dEYmgmjvzHU",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "XMtSK-FPIRs",
+      "title": "She said WHAT about olive oil ?!?",
+      "url": "https://www.youtube.com/shorts/XMtSK-FPIRs",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "r6CT98pSfJk",
+      "title": "How to Ace Your Next Negotiation",
+      "url": "https://www.youtube.com/shorts/r6CT98pSfJk",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "Cftbwz3s_yE",
+      "title": "WE'RE HEART-LESS ABOUT ARTICHOKES",
+      "url": "https://www.youtube.com/shorts/Cftbwz3s_yE",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "vfOaxhNpeFI",
+      "title": "We need your help!",
+      "url": "https://www.youtube.com/shorts/vfOaxhNpeFI",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "vlIf5tGmmpU",
+      "title": "\ud83d\udea8 MAYONNAISE \ud83d\udea8",
+      "url": "https://www.youtube.com/shorts/vlIf5tGmmpU",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "49rBhAWmftc",
+      "title": "How much can I eat in 8 hours at the Masters?",
+      "url": "https://www.youtube.com/shorts/49rBhAWmftc",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "Nyl2kFL5NdM",
+      "title": "Rich people catnip??",
+      "url": "https://www.youtube.com/shorts/Nyl2kFL5NdM",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "h1JjEdkrvWU",
+      "title": "Ya gotta start SOMEWHERE!!",
+      "url": "https://www.youtube.com/shorts/h1JjEdkrvWU",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "fObRqi5ykUQ",
+      "title": "CHALLENGE ACCEPTED",
+      "url": "https://www.youtube.com/shorts/fObRqi5ykUQ",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "Q0Kncoh2nuA",
+      "title": "The story of a real life POLAR BEAR encounter",
+      "url": "https://www.youtube.com/shorts/Q0Kncoh2nuA",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "7DKKaENkZ7k",
+      "title": "ANYTHING is possible!!",
+      "url": "https://www.youtube.com/shorts/7DKKaENkZ7k",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "Muz2doGCVoM",
+      "title": "Concrete jungle where CRONUTS are made!!!",
+      "url": "https://www.youtube.com/shorts/Muz2doGCVoM",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "65ZtOy1c-28",
+      "title": "Try these FREEZER HACKS!",
+      "url": "https://www.youtube.com/shorts/65ZtOy1c-28",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "hUve2sezFlk",
+      "title": "EGGCONOMICS are no YOLK!!!",
+      "url": "https://www.youtube.com/shorts/hUve2sezFlk",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "z7t6znnasj4",
+      "title": "The DAVE-INATOR or the BACONATOR??",
+      "url": "https://www.youtube.com/shorts/z7t6znnasj4",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "Pd3WBTiO9eI",
+      "title": "HOLD UP - The Spanish Flu was a bird flu??",
+      "url": "https://www.youtube.com/shorts/Pd3WBTiO9eI",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "G1prsEDgGB0",
+      "title": "Shout Out to Our Girl MARINARA",
+      "url": "https://www.youtube.com/shorts/G1prsEDgGB0",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "nZH2gDa5s_w",
+      "title": "Level Up Your Magic Mushroom Knowledge",
+      "url": "https://www.youtube.com/shorts/nZH2gDa5s_w",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "VVVT0Ef51bs",
+      "title": "The RIGHT way to order Italian",
+      "url": "https://www.youtube.com/shorts/VVVT0Ef51bs",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "ugzN5fCarJ8",
+      "title": "I scream! You scream! We all scream for ... GELATO??",
+      "url": "https://www.youtube.com/shorts/ugzN5fCarJ8",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "faQfWUYBbIE",
+      "title": "Two Milks is Too Many",
+      "url": "https://www.youtube.com/shorts/faQfWUYBbIE",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "kO9s0UilHKU",
+      "title": "Milk BEFORE Cereal?",
+      "url": "https://www.youtube.com/shorts/kO9s0UilHKU",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "PuRDr6ltU1k",
+      "title": "LOL & Emoji Protocols",
+      "url": "https://www.youtube.com/shorts/PuRDr6ltU1k",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "6AG8oQk0cBU",
+      "title": "David Chang's Home Kitchen Essentials",
+      "url": "https://www.youtube.com/shorts/6AG8oQk0cBU",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "QIRtim2YwpE",
+      "title": "Is Ranch BETTER than Caesar?",
+      "url": "https://www.youtube.com/shorts/QIRtim2YwpE",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "pzTkAPpT4bU",
+      "title": "How would YOU pronounce floccinaucinihilipilification?",
+      "url": "https://www.youtube.com/shorts/pzTkAPpT4bU",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "HPvD9LAsT9Q",
+      "title": "The most punk rock thing in food history",
+      "url": "https://www.youtube.com/shorts/HPvD9LAsT9Q",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "ag94sDYgm00",
+      "title": "A pearl of wisdom on oyster shucking",
+      "url": "https://www.youtube.com/shorts/ag94sDYgm00",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "2DUNzRaKsD4",
+      "title": "Spilling the Tea on Tea! Did You Know...?",
+      "url": "https://www.youtube.com/shorts/2DUNzRaKsD4",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "sH0L0fol32o",
+      "title": "Imitation crab meat is the sincerest form of flattery",
+      "url": "https://www.youtube.com/shorts/sH0L0fol32o",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "OR-CMXRbTT8",
+      "title": "Dave Chang's 2025 goal probably isn't what you expect...",
+      "url": "https://www.youtube.com/shorts/OR-CMXRbTT8",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "OXl-56yN8As",
+      "title": "On this week's DADS Corner...",
+      "url": "https://www.youtube.com/shorts/OXl-56yN8As",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "hOjb7zQBKqE",
+      "title": "Hard pass on peppermint",
+      "url": "https://www.youtube.com/shorts/hOjb7zQBKqE",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "MeV0qNN8hmQ",
+      "title": "Is the PARACHUTE the best way to eat a soup dumpling?",
+      "url": "https://www.youtube.com/shorts/MeV0qNN8hmQ",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "ew24twuoPKk",
+      "title": "What Dave Chang is bringing over for Friendsgiving",
+      "url": "https://www.youtube.com/shorts/ew24twuoPKk",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "GICF0o52sxI",
+      "title": "What made Tom Colicchio so nervous about Top Chef in its early years?",
+      "url": "https://www.youtube.com/shorts/GICF0o52sxI",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "ad28bxZo4RE",
+      "title": "No Philly report is complete without talking about Chef Marc Vetri and Vetri Cucina",
+      "url": "https://www.youtube.com/shorts/ad28bxZo4RE",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "zaUUmAVQopM",
+      "title": "My (fried chicken) opinion is fact",
+      "url": "https://www.youtube.com/shorts/zaUUmAVQopM",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "uQxpwx8GzYg",
+      "title": "Are we at the beginning of a new pizza era?",
+      "url": "https://www.youtube.com/shorts/uQxpwx8GzYg",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "ByuxeLyognY",
+      "title": "New York City: A Love Hate Relationship",
+      "url": "https://www.youtube.com/shorts/ByuxeLyognY",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "vuXYDWiKEc4",
+      "title": "From Roy panettone: an assault on your willpower",
+      "url": "https://www.youtube.com/shorts/vuXYDWiKEc4",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "jI6qvgGTQ1k",
+      "title": "The inspiration for the Dinner Time Live Noodle Cook-Off",
+      "url": "https://www.youtube.com/shorts/jI6qvgGTQ1k",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "9eB9I95QO0g",
+      "title": "The biggest sushi restaurant secret is...",
+      "url": "https://www.youtube.com/shorts/9eB9I95QO0g",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "VFj10Sv23zY",
+      "title": "No other art form quite like food!",
+      "url": "https://www.youtube.com/shorts/VFj10Sv23zY",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "GK17GPf23XA",
+      "title": "One of Dave's favorite movie food scenes is...",
+      "url": "https://www.youtube.com/shorts/GK17GPf23XA",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "Gf-yTxXFY3c",
+      "title": "Forceps = Our Utensil Future?",
+      "url": "https://www.youtube.com/shorts/Gf-yTxXFY3c",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "jnbi-ffuXEA",
+      "title": "Celebrate Self Taught Chefs!",
+      "url": "https://www.youtube.com/shorts/jnbi-ffuXEA",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "lsfmVXxVXvI",
+      "title": "Behind the Scenes of Culinary Class Wars: Korean Honesty",
+      "url": "https://www.youtube.com/shorts/lsfmVXxVXvI",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "E9O6g91BgvM",
+      "title": "The slow and rigorous cookware design process",
+      "url": "https://www.youtube.com/shorts/E9O6g91BgvM",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "MChSl1pAEFg",
+      "title": "We asked the same question too...",
+      "url": "https://www.youtube.com/shorts/MChSl1pAEFg",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "3Iq5X5QDjPA",
+      "title": "The key to success for entrepreneurs: small risks?",
+      "url": "https://www.youtube.com/shorts/3Iq5X5QDjPA",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "H5XulzK8EqY",
+      "title": "Noodling about noodle cooking",
+      "url": "https://www.youtube.com/shorts/H5XulzK8EqY",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "Wxo-4ESMej8",
+      "title": "Is this THE French sandwich to rule them all?",
+      "url": "https://www.youtube.com/shorts/Wxo-4ESMej8",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "jfI3-zK62MY",
+      "title": "Voila, Dave Chang's lazy home cook pasta cooking method",
+      "url": "https://www.youtube.com/shorts/jfI3-zK62MY",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "IfYEMY_P0yo",
+      "title": "ICYMI we\u2019ve been trying out a few NEW things on the show this season \ud83c\udf73",
+      "url": "https://www.youtube.com/shorts/IfYEMY_P0yo",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "dp7n5bOKVzs",
+      "title": "The Actual, Best Dinner Time Live Eaters Are...",
+      "url": "https://www.youtube.com/shorts/dp7n5bOKVzs",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "1Ast_rdVAzI",
+      "title": "Game Show Legend Pablo Torre Makes History! | The Dave Chang Show Podcast",
+      "url": "https://www.youtube.com/shorts/1Ast_rdVAzI",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "38lqbxgkW8Q",
+      "title": "The best food fandoms?",
+      "url": "https://www.youtube.com/shorts/38lqbxgkW8Q",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "0zh9akx1Pok",
+      "title": "The Chef Bobby Flay Looks Up To",
+      "url": "https://www.youtube.com/shorts/0zh9akx1Pok",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "Y2LrKRDybkQ",
+      "title": "Joey Chestnut: GOAT of GOATs?",
+      "url": "https://www.youtube.com/shorts/Y2LrKRDybkQ",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    },
+    {
+      "id": "7wtPtt5hVAY",
+      "title": "\u201cWhen I first started at Food Network, we didn\u2019t have money for editing.\u201d \u2014Bobby Flay",
+      "url": "https://www.youtube.com/shorts/7wtPtt5hVAY",
+      "duration_sec": null,
+      "playlist": "The Dave Chang Show - Shorts"
+    }
+  ]
+}

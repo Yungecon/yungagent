@@ -1,0 +1,38 @@
+{
+  "subject": "david-chang",
+  "scraped_at": "2026-05-16",
+  "tool": "WebSearch + WebFetch (services layer)",
+  "services": {
+    "restaurants": {
+      "description": "Momofuku restaurant group — 9 active locations (NY 4, LA 2, LV 2, JFK 1)",
+      "url": "https://www.momofuku.com/restaurants/",
+      "price_tier": "Mid-high. Private events available."
+    },
+    "speaking": {
+      "agency": "Harry Walker Agency",
+      "url": "https://www.harrywalker.com/speakers/david-chang",
+      "estimated_fee": "$100K+ (sourced from press, not confirmed on agency page)",
+      "topics": ["entrepreneurship", "innovation", "food + business", "mental health + leadership"]
+    },
+    "media_production": {
+      "entity": "Majordomo Media",
+      "clients": ["Netflix", "Hulu", "Spotify/The Ringer"],
+      "description": "Production company for food/culture content. TV development + podcasting.",
+      "note": "Not a for-hire service publicly — internal production entity"
+    },
+    "delivery": {
+      "platforms": ["DoorDash (Super Peach)", "Goldbelly (national shipping)"]
+    },
+    "private_events": {
+      "description": "Private event booking available at Momofuku locations",
+      "url": "https://www.momofuku.com/"
+    }
+  },
+  "missing_services": {
+    "advisory": "No public advisory or consulting product",
+    "newsletter_paid": "No paid newsletter or membership product",
+    "courses_or_masterclass": "Not identified",
+    "community_membership": "Discord exists on Majordomo but no public membership product"
+  },
+  "key_intelligence": "The services layer is almost entirely physical (restaurants) or institutional (speaking, Netflix deals). No scalable operator-facing service product. The gap between his expertise and accessible operator services is total — a $100K speaking fee is not accessible to the hospitality entrepreneur YUNG speaks to."
+}

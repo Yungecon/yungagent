@@ -1,0 +1,17 @@
+{
+  "subject": "david-chang",
+  "query": "Momofuku David Chang business revenue",
+  "scraped_at": "2026-05-16",
+  "tool": "WebSearch (fallback)",
+  "results": [
+    {"title": "How Momofuku Goods Became a $67 Million Powerhouse", "url": "https://www.inc.com/ali-francis/how-momofuku-goods-became-a-67-million-powerhouse-and-defied-its-doubters/91220122"},
+    {"title": "How Momofuku CEO Marguerite Zabar Mariscal created a $100 million food empire", "url": "https://www.fastcompany.com/90945101/momofuku-ceo-marguerite-zabar-mariscal-100-million-food-company"},
+    {"title": "Momofuku Goods raises $17.5M", "url": "https://www.retaildive.com/news/momofuku-goods-raises-seventeen-million-series-a-funding-round/645818/"},
+    {"title": "How Momofuku's 'Objection' Helped It Generate $50M In Sales", "url": "https://www.tasteradio.com/episodes/2024/how-momofukus-objection-helped-it-generate-50m-in-sales/"},
+    {"title": "Momofuku 2025 Company Profile: Valuation, Funding & Investors", "url": "https://pitchbook.com/profiles/company/99225-01"}
+  ],
+  "domain_summary": {
+    "top_domains": ["inc.com", "fastcompany.com", "retaildive.com", "tasteradio.com"],
+    "notable": "Business press dominates — Inc, Fast Company, Retail Dive. CPG pivot narrative is the primary frame. $100M total 2023 revenue, $67M+ Goods by 2024."
+  }
+}

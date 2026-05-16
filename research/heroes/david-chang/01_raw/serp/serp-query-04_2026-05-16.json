@@ -1,0 +1,16 @@
+{
+  "subject": "david-chang",
+  "query": "David Chang Momofuku restaurant closures 2023 Ko Ssam Bar",
+  "scraped_at": "2026-05-16",
+  "tool": "WebSearch (fallback)",
+  "results": [
+    {"title": "David Chang's Game-Changing Momofuku Ssäm Bar Is Closing - Robb Report", "url": "https://robbreport.com/food-drink/dining/david-chang-momofuku-ssam-bar-closing-permanently-1234894804/"},
+    {"title": "Legendary NYC Restaurant Momofuku Ko Is Closing", "url": "https://www.eatthis.com/david-changs-momofuku-ko-restaurant-closing/"},
+    {"title": "The Slow Collapse of David Chang's Momofuku Restaurant Empire", "url": "https://www.thelotimes.com/p/momofuku-ko-closed-david-chang-review-restaurant"},
+    {"title": "David Chang Announces Closure of Multiple Momofuku Restaurants - Robb Report", "url": "https://robbreport.com/food-drink/dining/david-chang-momofuku-nishi-ccdc-closing-bar-ssam-moving-2921023/"}
+  ],
+  "domain_summary": {
+    "top_domains": ["robbreport.com", "eatthis.com", "thelotimes.com"],
+    "notable": "Ssäm Bar closed Sep 30 2023. Ko (2 Michelin stars) closed Nov 4 2023. Media frame: 'collapse'. YUNG reframe: strategic capital reallocation — Goods division grew 585%/yr while he shed high-overhead fine dining. CEO Marguerite Zabar Mariscal named 2019 — closures part of deliberate pivot."
+  }
+}

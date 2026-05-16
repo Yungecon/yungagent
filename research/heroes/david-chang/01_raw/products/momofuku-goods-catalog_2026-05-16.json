@@ -1,0 +1,54 @@
+{
+  "subject": "david-chang",
+  "scraped_at": "2026-05-16",
+  "tool": "WebFetch shop.momofuku.com/collections/all-products",
+  "source_url": "https://shop.momofuku.com/collections/all-products",
+  "catalog": {
+    "noodles": [
+      {"name": "Soy & Scallion Noodles", "price_usd": 12.00, "unit": "4-pack", "rating": "5/5", "reviews": 164},
+      {"name": "Sweet & Spicy Noodles", "price_usd": 12.00, "unit": "4-pack", "rating": "5/5", "reviews": 107},
+      {"name": "Sesame Miso Noodles", "price_usd": 12.00, "unit": "4-pack", "rating": "5/5", "reviews": 121},
+      {"name": "Spicy Soy Noodles", "price_usd": 12.00, "unit": "4-pack", "rating": "5/5", "reviews": 63},
+      {"name": "Tingly Chili Noodles", "price_usd": 12.00, "unit": "4-pack", "rating": "5/5", "reviews": 71},
+      {"name": "Noodle Variety Pack (all 5 flavors)", "price_usd": 65.00, "saves": 7.00, "rating": "5/5", "reviews": 3300, "note": "Hero SKU by review volume"}
+    ],
+    "chili_crunch": [
+      {"name": "Original Chili Crunch"},
+      {"name": "Mild Garlic Chili Crunch"},
+      {"name": "Black Truffle Chili Crunch"},
+      {"name": "Extra Spicy Chili Crunch"},
+      {"name": "Hot Honey Chili Crunch"}
+    ],
+    "liquids": [
+      {"name": "Soy Sauce", "description": "Kombu-steeped, restaurant-grade", "price_usd": 12.00, "rating": "5/5", "reviews": 186},
+      {"name": "Tamari", "price_usd": 12.00, "rating": "5/5", "reviews": 186}
+    ],
+    "seasoned_salts": ["savory", "tingly", "spicy"],
+    "bundles": [
+      {"name": "Bestseller Pack", "discount_pct": 27},
+      {"name": "Chili Crunch Sampler", "discount_pct": 30},
+      {"name": "Build Your Own Bundle"},
+      {"name": "Anniversary Bundle 2025", "price_usd": 65, "original_usd": 72},
+      {"name": "Premium Bundle", "price_usd": 75, "original_usd": 100}
+    ]
+  },
+  "price_architecture": {
+    "individual_items": "$12 uniform price point",
+    "bundles": "$65-$75 (20-30% savings)",
+    "free_shipping_threshold": "$65 in contiguous US"
+  },
+  "retail_distribution": {
+    "store_count_2024": "11,000+",
+    "key_retailers": ["Target", "Kroger", "Costco", "Wegmans", "Sprouts"],
+    "brick_vs_dtc": "Brick-and-mortar outpaced DTC for first time by Dec 2024"
+  },
+  "revenue": {
+    "2022": "~$10M (est, pre-funding scale)",
+    "2023": "$50M",
+    "2024": "$67M+",
+    "series_a_raised": "$17.5M (2023)",
+    "total_funding": "$27.5M",
+    "investors": ["Siddhi Capital", "Alliance Consumer Growth"]
+  },
+  "key_intelligence": "Noodle Variety Pack (3,300 reviews) is the volume hero SKU. Chili Crunch is the brand icon. Uniform $12 price point simplifies bundle math. New CEO (Padraic Spence, veteran CPG) hired Feb 2025 = scaling phase, not founding phase."
+}

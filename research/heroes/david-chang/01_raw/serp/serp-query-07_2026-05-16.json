@@ -1,0 +1,22 @@
+{
+  "subject": "david-chang",
+  "query": "Momofuku Goods products catalog price architecture 2024",
+  "scraped_at": "2026-05-16",
+  "tool": "WebSearch (fallback)",
+  "results": [
+    {"title": "Momofuku Goods | Shop Chili Crunch, Seasoned Salts, and More", "url": "https://shop.momofuku.com/"},
+    {"title": "All Products – Momofuku Goods", "url": "https://shop.momofuku.com/collections/all-products"},
+    {"title": "How Momofuku Bottled Its Restaurant Experience - Shopify", "url": "https://www.shopify.com/blog/momofuku-cpg"}
+  ],
+  "domain_summary": {
+    "catalog": {
+      "chili_crunch": ["original", "extra spicy", "black truffle", "hot honey"],
+      "noodles": ["spicy soy", "tingly chili", "sweet and spicy", "spicy chili", "soy and scallion"],
+      "soy_sauce": "kombu-steeped, restaurant-grade",
+      "seasoned_salts": ["savory", "tingly", "spicy"]
+    },
+    "pricing": "Individual items ~$12. Bundles $65-$75.",
+    "retail": "11,000+ stores by 2024 — Target, Kroger, Costco, Wegmans, Sprouts. Brick-and-mortar outpaced DTC for first time by Dec 2024.",
+    "notable": "Goods division = 50%+ of Momofuku total revenue by 2023. $67M+ in 2024. New CEO Padraic Spence (veteran CPG executive) hired Feb 2025 to scale further."
+  }
+}

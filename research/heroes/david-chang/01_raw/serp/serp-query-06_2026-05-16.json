@@ -1,0 +1,25 @@
+{
+  "subject": "david-chang",
+  "query": "David Chang social media Instagram followers TikTok metrics",
+  "scraped_at": "2026-05-16",
+  "tool": "WebSearch (fallback)",
+  "results": [
+    {"title": "Dave Chang Instagram Analytics - SPEAKRJ", "url": "https://www.speakrj.com/audit/report/davidchang/instagram"},
+    {"title": "Dave Chang (@davidchang) Instagram", "url": "https://www.instagram.com/davidchang/"},
+    {"title": "Dave Chang (@davidchang) TikTok", "url": "https://www.tiktok.com/@davidchang?lang=en"},
+    {"title": "david chang (@davidchang) / X", "url": "https://twitter.com/davidchang"}
+  ],
+  "domain_summary": {
+    "metrics": {
+      "instagram_followers": "~2M",
+      "instagram_posts": 377,
+      "instagram_engagement_rate": "2.15%",
+      "instagram_avg_likes_per_post": "37.6K",
+      "tiktok_followers": "291.4K",
+      "tiktok_likes": "2.1M",
+      "facebook_likes": "713K",
+      "twitter_handle": "@davidchang"
+    },
+    "notable": "2M Instagram is the anchor. TikTok is secondary at 291K. Zero newsletter presence in top results. No Substack. No membership community. Borrowed channel dependency is near-total."
+  }
+}

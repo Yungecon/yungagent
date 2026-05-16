@@ -1,0 +1,16 @@
+{
+  "subject": "david-chang",
+  "query": "Majordomo Media David Chang founding 2018 media company",
+  "scraped_at": "2026-05-16",
+  "tool": "WebSearch (fallback)",
+  "results": [
+    {"title": "Chef David Chang Launches Media Platform With TV, Podcast Slate - Hollywood Reporter", "url": "https://www.hollywoodreporter.com/news/general-news/chef-david-chang-launches-media-platform-tv-podcast-slate-1093706/"},
+    {"title": "What We Know About David Chang's New Media Project - Food52", "url": "https://food52.com/story/21847-david-chang-announces-the-arrival-of-majordomo-media"},
+    {"title": "Dave Chang Show - Majordomo Media", "url": "https://www.majordomo.com/pages/dave-chang-show"},
+    {"title": "David Chang Keynote Speaker - Harry Walker Agency", "url": "https://www.harrywalker.com/speakers/david-chang"}
+  ],
+  "domain_summary": {
+    "top_domains": ["hollywoodreporter.com", "food52.com", "majordomo.com", "harrywalker.com"],
+    "notable": "Founded 2018. Key hires: Lou Cona (ex-Condé Nast Media Group president, Chief of Business/Revenue), Scott Dadich (ex-Wired editor-in-chief, creative direction via Godfrey Dadich Partners). Structure mirrors a real media co — not a personality vanity project. Netflix + Spotify + Hulu deals followed."
+  }
+}

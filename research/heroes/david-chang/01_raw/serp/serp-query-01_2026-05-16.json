@@ -1,0 +1,17 @@
+{
+  "subject": "david-chang",
+  "query": "David Chang",
+  "scraped_at": "2026-05-16",
+  "tool": "WebSearch (fallback — Apify not available)",
+  "results": [
+    {"title": "David Chang - Wikipedia", "url": "https://en.wikipedia.org/wiki/David_Chang"},
+    {"title": "David Chang - Home", "url": "https://www.davidchang.me/"},
+    {"title": "Press - David Chang", "url": "https://www.davidchang.me/press.html"},
+    {"title": "david chang (@davidchang) / X", "url": "https://twitter.com/davidchang"},
+    {"title": "Dave Chang (@davidchang) Instagram", "url": "https://www.instagram.com/davidchang/"}
+  ],
+  "domain_summary": {
+    "top_domains": ["wikipedia.org", "davidchang.me", "twitter.com", "instagram.com"],
+    "notable": "Wikipedia ranks #1. Personal site davidchang.me is indexed. No Substack, no newsletter, no community platform in top results."
+  }
+}
