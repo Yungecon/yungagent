@@ -1,0 +1,200 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-05-16",
+  "schema_notes": "type: hero (subject of full war room) | reference (bibliography — Principles/Playbook/Production). category: hospitality_native | creator_economy | media | marketing | author | framework. study_status: stub | partial | war_room_built | complete. raw_on_disk: true | false | partial.",
+  "creators": [
+    {
+      "slug": "david-chang",
+      "name": "David Chang",
+      "type": "hero",
+      "category": "hospitality_native",
+      "description": "Chef, founder of Momofuku restaurant group, TV/podcast personality. One of the few hospitality figures who built genuine cross-platform media presence. The distribution and monetization arc is the study.",
+      "handles": {
+        "instagram": "davidchang",
+        "youtube": "David Chang",
+        "twitter": "davidchang",
+        "tiktok": null,
+        "website": "davidchang.com",
+        "podcast": "The Dave Chang Show"
+      },
+      "study_status": "partial",
+      "raw_on_disk": false,
+      "folder": "research/heroes/david-chang",
+      "notion_war_room": "https://www.notion.so/36280cbd104e81f98a5ccff51a4e4924",
+      "priority": "high",
+      "notes": "War room built from context summaries in pre-Persistence-Rule session. No raw JSON on disk. Decision pending: re-scrape under conventions or treat existing war room as historical baseline."
+    },
+    {
+      "slug": "momofuku",
+      "name": "Momofuku",
+      "type": "hero",
+      "category": "hospitality_native",
+      "description": "Restaurant group turned platform. The canonical YUNG hero study — room → ritual → language → media → product → platform. Brand arc: single ramen bar to CPG + media company.",
+      "handles": {
+        "instagram": "momofuku",
+        "youtube": null,
+        "twitter": "momofuku",
+        "tiktok": null,
+        "website": "momofuku.com",
+        "shop": "shop.momofuku.com"
+      },
+      "study_status": "partial",
+      "raw_on_disk": false,
+      "folder": "research/heroes/momofuku",
+      "notion_hero_study": "https://www.notion.so/36280cbd104e81829be2cc56127c7e9c",
+      "priority": "high",
+      "notes": "Full war room exists in Notion (25 sources, 5 segment packets, Acquired-shaped). Old filesystem layout at /Users/yung/openclaw/research/momofuku-war-room/ (legacy, predates conventions). Fresh collection should write to research/heroes/momofuku/01_raw/."
+    },
+    {
+      "slug": "eyl",
+      "name": "Earn Your Leisure",
+      "type": "reference",
+      "category": "creator_economy",
+      "description": "Business/finance media brand (Rashad Bilal + Troy Millings). Podcast → YouTube → live events → courses → fund. The operating model reference for how YUNG sequences distribution → monetization.",
+      "handles": {
+        "instagram": "earnyourleisure",
+        "youtube": "Earn Your Leisure",
+        "twitter": "EarnYourLeisure",
+        "tiktok": "earnyourleisure",
+        "website": "earnyourleisure.com",
+        "podcast": "Earn Your Leisure"
+      },
+      "study_status": "partial",
+      "raw_on_disk": false,
+      "folder": "research/references/eyl",
+      "notion_source_folder": "https://www.notion.so/34580cbd104e81b5ba5afd702598dc0c",
+      "notion_layers": ["playbook", "principles"],
+      "priority": "high",
+      "notes": "Source folder exists in Notion. Legacy reels at Yungho Agent/reels/ — origin unclear. YouTube ingestion is the first priority for fresh collection."
+    },
+    {
+      "slug": "kallaway",
+      "name": "Kallaway",
+      "type": "reference",
+      "category": "creator_economy",
+      "description": "YouTube educator on content strategy, distribution mechanics, podcast growth. Teaches the architecture behind content that travels. Principles reference — not a structural model.",
+      "handles": {
+        "instagram": null,
+        "youtube": "@Kallaway",
+        "twitter": null,
+        "tiktok": null,
+        "website": null
+      },
+      "study_status": "partial",
+      "raw_on_disk": "partial",
+      "folder": "research/references/kallaway",
+      "notion_source_folder": "https://www.notion.so/34580cbd104e817b85a0fc24ded0759a",
+      "notion_layers": ["principles"],
+      "priority": "medium",
+      "notes": "Top-5 YouTube transcripts validated 2026-04-12. kallaway-top5-transcripts.md exists somewhere on disk — location unconfirmed. Find it, move to research/references/kallaway/04_deep/records/, then distill to Principles page."
+    },
+    {
+      "slug": "alex-hormozi",
+      "name": "Alex Hormozi",
+      "type": "reference",
+      "category": "creator_economy",
+      "description": "Entrepreneur, investor, author ($100M Offers, $100M Leads). Clearest modern example of distribution-as-acquisition-channel. Monetization frameworks are directly translatable to hospitality operators.",
+      "handles": {
+        "instagram": "hormozi",
+        "youtube": "Alex Hormozi",
+        "twitter": "AlexHormozi",
+        "tiktok": "hormozi",
+        "website": "acquisition.com"
+      },
+      "study_status": "stub",
+      "raw_on_disk": false,
+      "folder": "research/references/alex-hormozi",
+      "notion_source_folder": "https://www.notion.so/34580cbd104e817eb853cf8140cc5b44",
+      "notion_layers": ["principles"],
+      "priority": "high",
+      "notes": "Stub. High priority per Notion — monetization focus in Founding Document. YouTube + Instagram ingestion first. Minimum 5 atomic Principles with Hospitality translation."
+    },
+    {
+      "slug": "seth-godin",
+      "name": "Seth Godin",
+      "type": "reference",
+      "category": "marketing",
+      "description": "Marketing author and daily blogger. Permission Marketing, This Is Marketing, Purple Cow. Concepts reference — permission vs. interruption, smallest viable audience, remarkability. Frameworks pre-date the creator economy but map onto it.",
+      "handles": {
+        "instagram": null,
+        "youtube": null,
+        "twitter": "ThisIsSethsBlog",
+        "tiktok": null,
+        "website": "seths.blog",
+        "blog": "seths.blog"
+      },
+      "study_status": "stub",
+      "raw_on_disk": false,
+      "folder": "research/references/seth-godin",
+      "notion_source_folder": "https://www.notion.so/34580cbd104e811783d2cde23a3d538e",
+      "notion_layers": ["principles"],
+      "priority": "medium",
+      "notes": "Concepts reference, not content strategy reference. Read-based extraction — blog posts and books, not scraping. Distill into Principles with Hospitality translation."
+    },
+    {
+      "slug": "donald-miller",
+      "name": "Donald Miller",
+      "type": "reference",
+      "category": "marketing",
+      "description": "Author of Building a StoryBrand. The 7-part narrative framework for brand messaging clarity. Positions customer as hero, brand as guide. Directly applicable to how YUNG frames content and how operators should position their brands.",
+      "handles": {
+        "instagram": "donaldmiller",
+        "youtube": "StoryBrand",
+        "twitter": "donaldmiller",
+        "tiktok": null,
+        "website": "storybrand.com",
+        "podcast": "Building a StoryBrand Podcast"
+      },
+      "study_status": "stub",
+      "raw_on_disk": false,
+      "folder": "research/references/donald-miller",
+      "notion_source_folder": "https://www.notion.so/34580cbd104e81429428f9b569a14d12",
+      "notion_layers": ["principles"],
+      "priority": "medium",
+      "notes": "Framework extraction from the book is the primary task. Write 7-part StoryBrand framework to 04_deep/records/storybrand-framework.md. Distill to Principles with Hospitality translation for each part."
+    },
+    {
+      "slug": "personal-brand-launch",
+      "name": "Personal Brand Launch",
+      "type": "reference",
+      "category": "creator_economy",
+      "description": "Source TBD — needs clarification. A course, program, or framework on personal brand architecture and launch sequencing. Read the Notion source folder to confirm what this is before collection.",
+      "handles": {
+        "instagram": null,
+        "youtube": null,
+        "twitter": null,
+        "tiktok": null,
+        "website": null
+      },
+      "study_status": "stub",
+      "raw_on_disk": false,
+      "folder": "research/references/personal-brand-launch",
+      "notion_source_folder": "https://www.notion.so/34580cbd104e81839314c2b78e5b6840",
+      "notion_layers": [],
+      "priority": "low",
+      "notes": "Stub — source not yet fully identified. Read Notion source folder first. Update handles and description before starting any collection work."
+    },
+    {
+      "slug": "acquired",
+      "name": "Acquired",
+      "type": "reference",
+      "category": "media",
+      "description": "Business history podcast (Ben Gilbert + David Rosenthal). Multi-hour deep dives into company histories. The structural model for YUNG hero studies — narrative architecture, era chapters, the 70/15/10/5 history-to-insight ratio, claim discipline.",
+      "handles": {
+        "instagram": null,
+        "youtube": "Acquired",
+        "twitter": null,
+        "tiktok": null,
+        "website": "acquired.fm",
+        "podcast": "Acquired (Apple / Spotify)"
+      },
+      "study_status": "partial",
+      "raw_on_disk": false,
+      "folder": "research/references/acquired",
+      "notion_source_folder": "https://www.notion.so/36280cbd104e81c29296d77eeefbe644",
+      "notion_layers": ["playbook", "principles"],
+      "priority": "high",
+      "notes": "Most important reference. Playbook in Notion documents the structural model for hero studies. Raw on disk not needed for what's already extracted. YouTube transcripts useful if gaps in structural analysis need to be filled."
+    }
+  ]
+}
