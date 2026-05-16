@@ -1,0 +1,26 @@
+2026-05-16 | yt-dlp --flat-playlist --no-check-certificate | youtube | BLOCKED — HTTP 403 | https://www.youtube.com/channel/UCETysjkqFvS4PHm5Hv_Yu9w (The Dave Chang Show)
+2026-05-16 | yt-dlp --flat-playlist --no-check-certificate | youtube | BLOCKED — HTTP 403 | https://www.youtube.com/user/momofuku
+2026-05-16 | yt-dlp --flat-playlist --no-check-certificate | youtube | BLOCKED — HTTP 403 | https://www.youtube.com/c/MajordomoMedia
+2026-05-16 | yt-dlp single-video --skip-download --no-check-certificate | youtube | BLOCKED — HTTP 403 | https://www.youtube.com/watch?v=n8ZaV9d5j_k
+2026-05-16 | WebSearch fallback | youtube | 25 videos indexed | Multiple channels: UCETysjkqFvS4PHm5Hv_Yu9w + UCFtT1iprTreAUgZPaS5jmBA + guest appearances
+
+DIAGNOSIS:
+- yt-dlp version: 2026.03.17
+- Error: HTTP 403 Forbidden on all YouTube URLs including channel pages and individual videos
+- Root cause: Proxy environment (CLAUDE_CODE_PROXY_RESOLVES_HOSTS=true) does not allowlist youtube.com
+- curl to youtube.com also returns 403 with message "Host not in allowlist"
+- SSL also has self-signed cert issue (secondary — not the blocking factor, 403 precedes TLS)
+- JS runtime: node available at /opt/node22/bin/node; deno not available
+- --js-runtimes node flag tried — still blocked at HTTP layer before JS needed
+
+CHANNELS CONFIRMED (from search index):
+- The Dave Chang Show: https://www.youtube.com/channel/UCETysjkqFvS4PHm5Hv_Yu9w
+- Momofuku brand channel: https://www.youtube.com/channel/UCFtT1iprTreAUgZPaS5jmBA
+- Momofuku (legacy user URL): https://www.youtube.com/user/momofuku
+- Social Blade handle: @dav1dhc_ (personal David Chang handle, small channel)
+- Majordomo Media: https://www.youtube.com/c/MajordomoMedia
+
+RECOMMENDATION FOR NEXT PASS:
+Run yt-dlp from a network environment that allows YouTube, or use YouTube Data API v3 with an API key:
+  yt-dlp --flat-playlist --dump-json "https://www.youtube.com/channel/UCETysjkqFvS4PHm5Hv_Yu9w/videos" > channel-metadata_YYYY-MM-DD.json
+  yt-dlp --flat-playlist --dump-json "https://www.youtube.com/channel/UCFtT1iprTreAUgZPaS5jmBA/videos" >> channel-metadata_YYYY-MM-DD.json
